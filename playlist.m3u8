@@ -1459,7 +1459,7 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-id="yupp-asianet-plus" tvg-name="Asianet Plus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/lynvza.png" group-title="Entertainment", Asianet Plus
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Asianet%20Plus.m3u8
-#EXTINF:-1 tvg-id="yupp-athavan-tv-hd" tvg-name="Athavan TV HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/kpgayh.png" group-title="Entertainment", Athavan TV HD
+#EXTINF:-1 tvg-id="yupp-athavan-tv-hd" tvg-name="Athavan TV HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/kpgayh.png" group-title="Entertainment", Athavan TV HD
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Athavan%20TV%20HD.m3u8
 #EXTINF:-1 tvg-id="yupp-colors-apac" tvg-name="Colors APAC" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/gakxrq.png" group-title="Entertainment", Colors APAC
