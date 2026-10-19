@@ -314,10 +314,10 @@ https://homair-tv-production.up.railway.app/api/play/Star%20Jalsha.m3u8
 https://homair-tv-production.up.railway.app/api/play/Star%20Jalsha%20HD.m3u8
 #EXTINF:-1 tvg-id="jalshamovies" tvg-name="Jalsha Movies" tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="HomAir TV", Jalsha Movies
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
-https://homair-tv-production.up.railway.app/api/play/Jalsha%20Movies.m3u8
+https://homair-hell.up.railway.app/api/play/Jalsha%20Movies%20HD.m3u8
 #EXTINF:-1 tvg-id="jalshamovieshd" tvg-name="Jalsha Movies HD" tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="HomAir TV", Jalsha Movies HD
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
-https://homair-tv-production.up.railway.app/api/play/Jalsha%20Movies%20HD.m3u8
+https://homair-hell.up.railway.app/api/play/Jalsha%20Movies%20HD.m3u8
 #EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony Aath" tvg-logo="https://i.imgur.com/6Uu62YQ.png" group-title="HomAir TV", Sony Aath
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://homair-tv-production.up.railway.app/api/play/Sony%20Aath.m3u8
