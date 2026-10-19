@@ -116,7 +116,10 @@ https://homair-tv-production.up.railway.app/api/play/History.m3u8
 https://homair-tv-production.up.railway.app/api/play/HUM%20MASALA%20TV.m3u8
 #EXTINF:-1 tvg-id="hungama" tvg-name="HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/HUNGAMA1787250329.png?v=1" group-title="HomAir TV", HUNGAMA
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
-https://homair-tv-production.up.railway.app/api/play/HUNGAMA.m3u8
+https://stream-proxy.xubilas-era.workers.dev/hungama1.m3u8
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
+#EXTINF:-1 tvg-id="hungama" tvg-name="HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/HUNGAMA1787250329.png?v=1" group-title="HomAir TV",HUNGAMA (Backup)
+https://stream-proxy.xubilas-era.workers.dev/hungama2.m3u8
 #EXTINF:-1 tvg-id="independenttv" tvg-name="INDEPENDENT TV" tvg-logo="https://tv.moviemasti.net/assets/images/INDEPENDENT.TV1787251656.png?v=1" group-title="HomAir TV", INDEPENDENT TV
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
 https://homair-tv-production.up.railway.app/api/play/INDEPENDENT%20TV.m3u8
@@ -2468,7 +2471,10 @@ https://homair-tv-production.up.railway.app/api/play/Nick%20Jr.%20(576p).m3u8
 https://homair-tv-production.up.railway.app/api/play/Colors%20Bangla%20HD%20(1080p).m3u8
 #EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-name="Hungama TV (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hungama_TV_Logo.svg/512px-Hungama_TV_Logo.svg.png" group-title="HomAir TV", Hungama TV (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Hungama%20TV%20(576p).m3u8
+https://stream-proxy.xubilas-era.workers.dev/hungama1.m3u8
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-name="Hungama TV (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hungama_TV_Logo.svg/512px-Hungama_TV_Logo.svg.png" group-title="HomAir TV",Hungama TV (576p) (Backup)
+https://stream-proxy.xubilas-era.workers.dev/hungama2.m3u8
 #EXTINF:-1 tvg-id="SuperHungama.in@SD" tvg-name="Super Hungama (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hungama_TV_Logo.svg/512px-Hungama_TV_Logo.svg.png" group-title="HomAir TV", Super Hungama (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://stream-proxy.xubilas-era.workers.dev/superhungama1.m3u8
