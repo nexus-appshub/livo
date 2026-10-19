@@ -1454,3 +1454,206 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-name="IN – Rana Cable TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/09/ranacabletv-150x150.png?x89217" tvg-language="English" group-title="Family",IN – Rana Cable TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ranacabletv.stream/playlist.m3u8?wmsAuthSign=
 # DUPLICATE CHANNELS - UNVERIFIED ALTERNATIVE: IN-Express News
+
+# --- YuppTV Entertainment channels ---
+#EXTINF:-1 tvg-id="yupp-asianet-plus" tvg-name="Asianet Plus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/lynvza.png" group-title="Entertainment", Asianet Plus
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Asianet%20Plus.m3u8
+#EXTINF:-1 tvg-id="yupp-athavan-tv-hd" tvg-name="Athavan TV HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/kpgayh.png" group-title="Entertainment", Athavan TV HD
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Athavan%20TV%20HD.m3u8
+#EXTINF:-1 tvg-id="yupp-colors-apac" tvg-name="Colors APAC" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/gakxrq.png" group-title="Entertainment", Colors APAC
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Colors%20APAC.m3u8
+#EXTINF:-1 tvg-id="yupp-colors-bangla" tvg-name="Colors Bangla HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/vssijf.png" group-title="Entertainment", Colors Bangla HD
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Colors%20Bangla%20HD.m3u8
+#EXTINF:-1 tvg-id="yupp-colors-gujarati" tvg-name="Colors Gujarati" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/fncwoy.png" group-title="Entertainment", Colors Gujarati
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Colors%20Gujarati.m3u8
+#EXTINF:-1 tvg-id="yupp-colors-kannada" tvg-name="Colors Kannada HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/igchdb.png" group-title="Entertainment", Colors Kannada HD
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Colors%20Kannada%20HD.m3u8
+#EXTINF:-1 tvg-id="yupp-colors-marathi" tvg-name="Colors Marathi HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/srmnos.png" group-title="Entertainment", Colors Marathi HD
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Colors%20Marathi%20HD.m3u8
+#EXTINF:-1 tvg-id="yupp-colors-rishtey-apac" tvg-name="Colors Rishtey APAC" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/kabpmh.png" group-title="Entertainment", Colors Rishtey APAC
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Colors%20Rishtey%20APAC.m3u8
+#EXTINF:-1 tvg-id="yupp-colors-super" tvg-name="Colors Super" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/vyetgz.png" group-title="Entertainment", Colors Super
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Colors%20Super.m3u8
+#EXTINF:-1 tvg-id="yupp-colors-tamil" tvg-name="Colors Tamil" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/xrbgre.png" group-title="Entertainment", Colors Tamil
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Colors%20Tamil.m3u8
+#EXTINF:-1 tvg-id="yupp-flowerstv" tvg-name="Flowers TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/bhikas.png" group-title="Entertainment", Flowers TV
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Flowers%20TV.m3u8
+#EXTINF:-1 tvg-id="yupp-gtc-punjabi" tvg-name="GTC Punjabi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/epavei.png" group-title="Entertainment", GTC Punjabi
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/GTC%20Punjabi.m3u8
+#EXTINF:-1 tvg-id="yupp-ibc-radio" tvg-name="IBC Radio" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/waoski.png" group-title="Entertainment", IBC Radio
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/IBC%20Radio.m3u8
+#EXTINF:-1 tvg-id="yupp-ibc-tamil" tvg-name="IBC Tamil" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/jbmpio.png" group-title="Entertainment", IBC Tamil
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/IBC%20Tamil.m3u8
+#EXTINF:-1 tvg-id="yupp-kutingg" tvg-name="Kutingg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/uujqwf.png" group-title="Entertainment", Kutingg
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Kutingg.m3u8
+#EXTINF:-1 tvg-id="yupp-maa-tv" tvg-name="Maa TV HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/bedqts.png" group-title="Entertainment", Maa TV HD
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Maa%20TV%20HD.m3u8
+#EXTINF:-1 tvg-id="yupp-mazhavil-manorama" tvg-name="Mazhavil Manorama" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/izikoz.png" group-title="Entertainment", Mazhavil Manorama
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Mazhavil%20Manorama.m3u8
+#EXTINF:-1 tvg-id="yupp-pitaara-comedy" tvg-name="Pitaara Comedy" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/monesx.png" group-title="Entertainment", Pitaara Comedy
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Pitaara%20Comedy.m3u8
+#EXTINF:-1 tvg-id="yupp-polimertv" tvg-name="PolimerTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/ajdhbq.png" group-title="Entertainment", PolimerTV
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/PolimerTV.m3u8
+#EXTINF:-1 tvg-id="yupp-punjabi-shorts" tvg-name="Punjabi Shorts" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/hmuorw.png" group-title="Entertainment", Punjabi Shorts
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Punjabi%20Shorts.m3u8
+#EXTINF:-1 tvg-id="yupp-star-bharat-apac" tvg-name="Star Bharat APAC" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/fwisjk.png" group-title="Entertainment", Star Bharat APAC
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Star%20Bharat%20APAC.m3u8
+#EXTINF:-1 tvg-id="yupp-star-jalsha" tvg-name="Star Jalsha" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/ehmlbn.png" group-title="Entertainment", Star Jalsha
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Star%20Jalsha.m3u8
+#EXTINF:-1 tvg-id="yupp-star-plus-aud" tvg-name="Star Plus APAC" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/nwnhqi.png" group-title="Entertainment", Star Plus APAC
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Star%20Plus%20APAC.m3u8
+#EXTINF:-1 tvg-id="yupp-star-vijay" tvg-name="Star Vijay" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/iuxvzu.png" group-title="Entertainment", Star Vijay
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Star%20Vijay.m3u8
+#EXTINF:-1 tvg-id="yupp-suvarna-tv" tvg-name="Suvarna TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/mgnbyi.png" group-title="Entertainment", Suvarna TV
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Suvarna%20TV.m3u8
+#EXTINF:-1 tvg-id="yupp-zee-bangla" tvg-name="Zee Bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/feimsc.png" group-title="Entertainment", Zee Bangla
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Zee%20Bangla.m3u8
+#EXTINF:-1 tvg-id="yupp-zee-kannada" tvg-name="Zee Kannada HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/jeedsd.png" group-title="Entertainment", Zee Kannada HD
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Zee%20Kannada%20HD.m3u8
+#EXTINF:-1 tvg-id="yupp-zee-marathi" tvg-name="Zee Marathi HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/dzxqpx.png" group-title="Entertainment", Zee Marathi HD
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Zee%20Marathi%20HD.m3u8
+#EXTINF:-1 tvg-id="yupp-zee-tamil" tvg-name="Zee Tamil" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/agnbgw.png" group-title="Entertainment", Zee Tamil
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Zee%20Tamil.m3u8
+#EXTINF:-1 tvg-id="yupp-zee-telugu" tvg-name="Zee Telugu HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/tmpzos.png" group-title="Entertainment", Zee Telugu HD
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Zee%20Telugu%20HD.m3u8
+
+# --- YuppTV Movies channels ---
+#EXTINF:-1 tvg-id="yupp-asianet-movies" tvg-name="Asianet Movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/hbkgbu.png" group-title="Movies", Asianet Movies
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Asianet%20Movies.m3u8
+#EXTINF:-1 tvg-id="yupp-best-classic-tv" tvg-name="BEST CLASSIC TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/qbmjpt.png" group-title="Movies", BEST CLASSIC TV
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/BEST%20CLASSIC%20TV.m3u8
+#EXTINF:-1 tvg-id="yupp-maa-movies" tvg-name="Maa Movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/fntsxm.png" group-title="Movies", Maa Movies
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Maa%20Movies.m3u8
+#EXTINF:-1 tvg-id="yupp-mana-tv" tvg-name="Mana TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/lojitg.png" group-title="Movies", Mana TV
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Mana%20TV.m3u8
+#EXTINF:-1 tvg-id="yupp-pitaara-tv" tvg-name="Pitaara TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/aoorur.png" group-title="Movies", Pitaara TV
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Pitaara%20TV.m3u8
+
+# --- YuppTV News channels ---
+#EXTINF:-1 tvg-id="yupp-aajtak" tvg-name="Aajtak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/fwverv.png" group-title="News", Aajtak
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Aajtak.m3u8
+#EXTINF:-1 tvg-id="yupp-abp-majha" tvg-name="ABP Majha" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/sxbmxu.png" group-title="News", ABP Majha
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/ABP%20Majha.m3u8
+#EXTINF:-1 tvg-id="yupp-abp-news" tvg-name="ABP News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/yggkha.png" group-title="News", ABP News
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/ABP%20News.m3u8
+#EXTINF:-1 tvg-id="yupp-al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/jkmizz.png" group-title="News", Al Jazeera
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Al%20Jazeera.m3u8
+#EXTINF:-1 tvg-id="yupp-asianet-news" tvg-name="Asianet News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/jurbxl.png" group-title="News", Asianet News
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Asianet%20News.m3u8
+#EXTINF:-1 tvg-id="yupp-big-tv" tvg-name="BIG TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/qvqaur.png" group-title="News", BIG TV
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/BIG%20TV.m3u8
+#EXTINF:-1 tvg-id="yupp-chardikala-time-tv" tvg-name="Chardikala Time TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/chardikala-time-tv.png" group-title="News", Chardikala Time TV
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Chardikala%20Time%20TV.m3u8
+#EXTINF:-1 tvg-id="yupp-dd-india" tvg-name="DD INDIA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/bgqsef.png" group-title="News", DD INDIA
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/DD%20INDIA.m3u8
+#EXTINF:-1 tvg-id="yupp-india-today-news" tvg-name="India Today News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/sktmeu.png" group-title="News", India Today News
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/India%20Today%20News.m3u8
+#EXTINF:-1 tvg-id="yupp-ndtv-24x7" tvg-name="NDTV 24x7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/kkveec.png" group-title="News", NDTV 24x7
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/NDTV%2024x7.m3u8
+#EXTINF:-1 tvg-id="yupp-ndtv-india" tvg-name="NDTV INDIA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/lvnzhc.png" group-title="News", NDTV INDIA
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/NDTV%20INDIA.m3u8
+#EXTINF:-1 tvg-id="yupp-ndtv-mp" tvg-name="NDTV MP" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/qikado.png" group-title="News", NDTV MP
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/NDTV%20MP.m3u8
+#EXTINF:-1 tvg-id="yupp-ndtv-rajasthan" tvg-name="NDTV Rajasthan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/fdtcyn.png" group-title="News", NDTV Rajasthan
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/NDTV%20Rajasthan.m3u8
+#EXTINF:-1 tvg-id="yupp-news9live" tvg-name="News9Live" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/wbgcpr.png" group-title="News", News9Live
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/News9Live.m3u8
+#EXTINF:-1 tvg-id="yupp-ntv" tvg-name="NTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/bhrrbq.png" group-title="News", NTV
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/NTV.m3u8
+#EXTINF:-1 tvg-id="yupp-republic-bharat" tvg-name="Republic Bharat" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/jdwwqw.png" group-title="News", Republic Bharat
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Republic%20Bharat.m3u8
+#EXTINF:-1 tvg-id="yupp-republic-tv" tvg-name="Republic TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/ebafrh.png" group-title="News", Republic TV
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Republic%20TV.m3u8
+#EXTINF:-1 tvg-id="yupp-tv5" tvg-name="TV5" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/wtuipv.png" group-title="News", TV5
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/TV5.m3u8
+#EXTINF:-1 tvg-id="yupp-tv9-bharatvarsh" tvg-name="TV9 Bharatvarsh" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/buimcp.png" group-title="News", TV9 Bharatvarsh
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/TV9%20Bharatvarsh.m3u8
+#EXTINF:-1 tvg-id="yupp-tv9-news" tvg-name="TV9 News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/pehbix.png" group-title="News", TV9 News
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/TV9%20News.m3u8
+#EXTINF:-1 tvg-id="yupp-wion" tvg-name="Wion" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/xbzydg.png" group-title="News", Wion
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Wion.m3u8
+#EXTINF:-1 tvg-id="yupp-zee-news" tvg-name="Zee News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/oywilp.png" group-title="News", Zee News
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Zee%20News.m3u8
+#EXTINF:-1 tvg-id="yupp-zee-news-telugu" tvg-name="Zee News Telugu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/tblfip.png" group-title="News", Zee News Telugu
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Zee%20News%20Telugu.m3u8
+#EXTINF:-1 tvg-id="yupp-zee-punjab-haryana-himachal" tvg-name="Zee Punjab Haryana Himachal" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/ffanvt.png" group-title="News", Zee Punjab Haryana Himachal
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Zee%20Punjab%20Haryana%20Himachal.m3u8
+
+# --- YuppTV Sports channels ---
+#EXTINF:-1 tvg-id="yupp-cricket-gold" tvg-name="Cricket Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/vzfqgi.png" group-title="Sports", Cricket Gold
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Cricket%20Gold.m3u8
+
+# --- YuppTV Music channels ---
+#EXTINF:-1 tvg-id="yupp-wah-punjabi" tvg-name="Wah Punjabi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/hjjjgq.png" group-title="Music", Wah Punjabi
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Wah%20Punjabi.m3u8
+
+# --- YuppTV LifeStyle channels ---
+#EXTINF:-1 tvg-id="yupp-ndtv-goodtimes" tvg-name="NDTV GoodTimes" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/lpccou.png" group-title="LifeStyle", NDTV GoodTimes
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/NDTV%20GoodTimes.m3u8
+
+# --- YuppTV Business channels ---
+#EXTINF:-1 tvg-id="yupp-ndtv-profit" tvg-name="NDTV Profit" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/dfjrsi.png" group-title="Business", NDTV Profit
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/NDTV%20Profit.m3u8
