@@ -116,7 +116,7 @@ https://homair-tv-production.up.railway.app/api/play/History.m3u8
 https://homair-tv-production.up.railway.app/api/play/HUM%20MASALA%20TV.m3u8
 #EXTINF:-1 tvg-id="hungama" tvg-name="HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/HUNGAMA1787250329.png?v=1" group-title="HomAir TV", HUNGAMA
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
-https://stream-proxy.xubilas-era.workers.dev/hungama1.m3u8
+http://103.185.24.134:3001/HUNGAMA/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
 #EXTINF:-1 tvg-id="hungama" tvg-name="HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/HUNGAMA1787250329.png?v=1" group-title="HomAir TV",HUNGAMA (Backup)
 https://stream-proxy.xubilas-era.workers.dev/hungama2.m3u8
@@ -275,10 +275,10 @@ https://homair-tv-production.up.railway.app/api/play/STAR%20SPORTS2%20HD.m3u8
 https://homair-tv-production.up.railway.app/api/play/Sun%20Bangla.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" group-title="HomAir TV", SUPER HUNGAMA
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
-https://stream-proxy.xubilas-era.workers.dev/superhungama1.m3u8
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
 #EXTINF:-1 tvg-id="superhungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" group-title="HomAir TV",SUPER HUNGAMA (Backup)
-https://stream-proxy.xubilas-era.workers.dev/superhungama2.m3u8
+http://103.185.24.134:3001/SUPER-HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T SPORTS HD" tvg-logo="https://tv.moviemasti.net/assets/images/T-SPORTS-HD1787252188.png?v=1" group-title="HomAir TV", T SPORTS HD
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
 https://homair-tv-production.up.railway.app/api/play/T%20SPORTS%20HD.m3u8
@@ -2471,13 +2471,13 @@ https://homair-tv-production.up.railway.app/api/play/Nick%20Jr.%20(576p).m3u8
 https://homair-tv-production.up.railway.app/api/play/Colors%20Bangla%20HD%20(1080p).m3u8
 #EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-name="Hungama TV (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hungama_TV_Logo.svg/512px-Hungama_TV_Logo.svg.png" group-title="HomAir TV", Hungama TV (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://stream-proxy.xubilas-era.workers.dev/hungama1.m3u8
+http://103.185.24.134:3001/HUNGAMA/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 #EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-name="Hungama TV (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hungama_TV_Logo.svg/512px-Hungama_TV_Logo.svg.png" group-title="HomAir TV",Hungama TV (576p) (Backup)
 https://stream-proxy.xubilas-era.workers.dev/hungama2.m3u8
 #EXTINF:-1 tvg-id="SuperHungama.in@SD" tvg-name="Super Hungama (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hungama_TV_Logo.svg/512px-Hungama_TV_Logo.svg.png" group-title="HomAir TV", Super Hungama (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://stream-proxy.xubilas-era.workers.dev/superhungama1.m3u8
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-name="Sony Aath (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Sony_Aath_logo.svg/512px-Sony_Aath_logo.svg.png" group-title="HomAir TV", Sony Aath (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Sony%20Aath%20(576p).m3u8
