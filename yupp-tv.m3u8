@@ -119,7 +119,7 @@ https://homair-tv-production.up.railway.app/api/play/HUM%20MASALA%20TV.m3u8
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
 #EXTINF:-1 tvg-id="hungama" tvg-name="HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/HUNGAMA1787250329.png?v=1" group-title="HomAir TV",HUNGAMA (Backup)
-https://stream-proxy.xubilas-era.workers.dev/hungama2.m3u8
+http://103.185.24.134:3001/HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="independenttv" tvg-name="INDEPENDENT TV" tvg-logo="https://tv.moviemasti.net/assets/images/INDEPENDENT.TV1787251656.png?v=1" group-title="HomAir TV", INDEPENDENT TV
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
 https://homair-tv-production.up.railway.app/api/play/INDEPENDENT%20TV.m3u8
@@ -333,9 +333,6 @@ https://homair-tv-production.up.railway.app/api/play/9X%20Tashan%20(1080p).m3u8
 #EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-name="9X Tashan (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/9X_Tashan_logo.png/512px-9X_Tashan_logo.png" group-title="HomAir TV", 9X Tashan (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/9X%20Tashan%20(576p).m3u8
-#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-name="9X Tashan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/9X_Tashan_logo.png/512px-9X_Tashan_logo.png" group-title="HomAir TV", 9X Tashan
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/9X%20Tashan.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/9XM_logo.svg/512px-9XM_logo.svg.png" group-title="HomAir TV", 9XM (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/9XM%20(1080p).m3u8
@@ -360,9 +357,6 @@ https://homair-tv-production.up.railway.app/api/play/Aaj%20Tak%20(1080p).m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD" tvg-name="Aaj Tak (720p)" tvg-logo="https://ui-avatars.com/api/?name=Aaj%20Tak%20(720&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Aaj Tak (720p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Aaj%20Tak%20(720p).m3u8
-#EXTINF:-1 tvg-id="AajTak.in@SD" tvg-name="Aaj Tak (404p)" tvg-logo="https://ui-avatars.com/api/?name=Aaj%20Tak%20(404&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Aaj Tak (404p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Aaj%20Tak%20(404p).m3u8
 #EXTINF:-1 tvg-id="AajTak.in@HD" tvg-name="Aaj Tak HD (1080p)" tvg-logo="https://ui-avatars.com/api/?name=Aaj%20Tak%20HD%20(&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Aaj Tak HD (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Aaj%20Tak%20HD%20(1080p).m3u8
@@ -1143,9 +1137,6 @@ https://homair-tv-production.up.railway.app/api/play/News18%20Uttar%20Pradesh%20
 #EXTINF:-1 tvg-id="News24.in@SD" tvg-name="News 24 (720p)" tvg-logo="https://ui-avatars.com/api/?name=News%2024%20(720&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", News 24 (720p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/News%2024%20(720p).m3u8
-#EXTINF:-1 tvg-id="News24.in@SD" tvg-name="News 24 (576p)" tvg-logo="https://ui-avatars.com/api/?name=News%2024%20(576&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", News 24 (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/News%2024%20(576p).m3u8
 #EXTINF:-1 tvg-id="NewsIndia24x7.in@SD" tvg-name="News India 24x7" tvg-logo="https://ui-avatars.com/api/?name=News%20India%202&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", News India 24x7
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/News%20India%2024x7.m3u8
@@ -1182,9 +1173,6 @@ https://homair-tv-production.up.railway.app/api/play/NTV%20Telugu%20(1080p).m3u8
 #EXTINF:-1 tvg-id="NTVTelugu.in@SD" tvg-name="NTV Telugu (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NTV_%28Bangladesh%29_logo.svg/512px-NTV_%28Bangladesh%29_logo.svg.png" group-title="HomAir TV", NTV Telugu (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/NTV%20Telugu%20(576p).m3u8
-#EXTINF:-1 tvg-id="NTVTelugu.in@SD" tvg-name="NTV Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NTV_%28Bangladesh%29_logo.svg/512px-NTV_%28Bangladesh%29_logo.svg.png" group-title="HomAir TV", NTV Telugu
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/NTV%20Telugu.m3u8
 #EXTINF:-1 tvg-id="OdishaTV.in@SD" tvg-name="Odisha TV (720p)" tvg-logo="https://ui-avatars.com/api/?name=Odisha%20TV%20(7&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Odisha TV (720p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Odisha%20TV%20(720p).m3u8
@@ -1515,9 +1503,6 @@ https://homair-tv-production.up.railway.app/api/play/Sudarshan%20News%20(1080p).
 #EXTINF:-1 tvg-id="SudarshanNews.in@SD" tvg-name="Sudarshan News (396p)" tvg-logo="https://ui-avatars.com/api/?name=Sudarshan%20Ne&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Sudarshan News (396p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Sudarshan%20News%20(396p).m3u8
-#EXTINF:-1 tvg-id="SudarshanNews.in@SD" tvg-name="Sudarshan News" tvg-logo="https://ui-avatars.com/api/?name=Sudarshan%20Ne&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Sudarshan News
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Sudarshan%20News.m3u8
 #EXTINF:-1 tvg-id="SuriyaTV.in@SD" tvg-name="Suriya TV (1080p)" tvg-logo="https://ui-avatars.com/api/?name=Suriya%20TV%20(1&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Suriya TV (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Suriya%20TV%20(1080p).m3u8
@@ -1674,18 +1659,6 @@ https://homair-tv-production.up.railway.app/api/play/WION%20(1080p).m3u8
 #EXTINF:-1 tvg-id="WION.in@SD" tvg-name="WION (720p)" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", WION (720p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/WION%20(720p).m3u8
-#EXTINF:-1 tvg-id="WION.in@SD" tvg-name="WION (504p)" tvg-logo="https://ui-avatars.com/api/?name=WION%20(504p)&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", WION (504p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/WION%20(504p).m3u8
-#EXTINF:-1 tvg-id="WION.in@SD" tvg-name="WION (480p)" tvg-logo="https://ui-avatars.com/api/?name=WION%20(480p)&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", WION (480p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/WION%20(480p).m3u8
-#EXTINF:-1 tvg-id="WION.in@SD" tvg-name="WION (360p)" tvg-logo="https://ui-avatars.com/api/?name=WION%20(360p)&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", WION (360p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/WION%20(360p).m3u8
-#EXTINF:-1 tvg-id="WION.in@SD" tvg-name="WION (240p)" tvg-logo="https://ui-avatars.com/api/?name=WION%20(240p)&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", WION (240p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/WION%20(240p).m3u8
 #EXTINF:-1 tvg-id="WION.in@SD" tvg-name="WION (Adaptive) (1080p)" tvg-logo="https://ui-avatars.com/api/?name=WION%20(Adapti&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", WION (Adaptive) (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/WION%20(Adaptive)%20(1080p).m3u8
@@ -1866,15 +1839,9 @@ https://homair-tv-production.up.railway.app/api/play/Insync%20(576p).m3u8
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD" tvg-name="TV9 Bharatvarsh (576p)" tvg-logo="https://ui-avatars.com/api/?name=TV9%20Bharatva&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", TV9 Bharatvarsh (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/TV9%20Bharatvarsh%20(576p).m3u8
-#EXTINF:-1 tvg-id="RepublicBharat.in@SD" tvg-name="Republic Bharat (576p)" tvg-logo="https://ui-avatars.com/api/?name=Republic%20Bha&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Republic Bharat (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Republic%20Bharat%20(576p).m3u8
 #EXTINF:-1 tvg-id="TimesNowNavbharat.in@SD" tvg-name="Times Now Navbharat (576p)" tvg-logo="https://ui-avatars.com/api/?name=Times%20Now%20Na&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Times Now Navbharat (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Times%20Now%20Navbharat%20(576p).m3u8
-#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-name="News Nation (576p)" tvg-logo="https://ui-avatars.com/api/?name=News%20Nation%20&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", News Nation (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/News%20Nation%20(576p).m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in@SD" tvg-name="India TV (576p)" tvg-logo="https://ui-avatars.com/api/?name=India%20TV%20(57&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", India TV (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/India%20TV%20(576p).m3u8
@@ -1884,18 +1851,9 @@ https://homair-tv-production.up.railway.app/api/play/DD%20News%20(576p).m3u8
 #EXTINF:-1 tvg-id="Bharat24.in@SD" tvg-name="Bharat24 (576p)" tvg-logo="https://ui-avatars.com/api/?name=Bharat24%20(57&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Bharat24 (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Bharat24%20(576p).m3u8
-#EXTINF:-1 tvg-id="SudarshanNews.in@SD" tvg-name="Sudarshan News (576p)" tvg-logo="https://ui-avatars.com/api/?name=Sudarshan%20Ne&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Sudarshan News (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Sudarshan%20News%20(576p).m3u8
 #EXTINF:-1 tvg-id="APN.in@SD" tvg-name="APN (576p)" tvg-logo="https://ui-avatars.com/api/?name=APN%20(576p)&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", APN (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/APN%20(576p).m3u8
-#EXTINF:-1 tvg-id="BharatExpress.in@SD" tvg-name="Bharat Express (576p)" tvg-logo="https://ui-avatars.com/api/?name=Bharat%20Expre&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Bharat Express (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Bharat%20Express%20(576p).m3u8
-#EXTINF:-1 tvg-id="BharatSamachar.in@SD" tvg-name="Bharat Samachar (576p)" tvg-logo="https://ui-avatars.com/api/?name=Bharat%20Samac&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Bharat Samachar (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Bharat%20Samachar%20(576p).m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in@SD" tvg-name="Hindi Khabar (576p)" tvg-logo="https://ui-avatars.com/api/?name=Hindi%20Khabar&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Hindi Khabar (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Hindi%20Khabar%20(576p).m3u8
@@ -1938,18 +1896,12 @@ https://homair-tv-production.up.railway.app/api/play/Khabar%20Fast%20(576p).m3u8
 #EXTINF:-1 tvg-id="NewsX.in@SD" tvg-name="NewsX (576p)" tvg-logo="https://ui-avatars.com/api/?name=NewsX%20(576p)&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", NewsX (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/NewsX%20(576p).m3u8
-#EXTINF:-1 tvg-id="RepublicTV.in@SD" tvg-name="Republic TV (576p)" tvg-logo="https://ui-avatars.com/api/?name=Republic%20TV%20&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Republic TV (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Republic%20TV%20(576p).m3u8
 #EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-name="DD India (576p)" tvg-logo="https://ui-avatars.com/api/?name=DD%20India%20(57&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", DD India (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/DD%20India%20(576p).m3u8
 #EXTINF:-1 tvg-id="NewsXWorld.in@HD" tvg-name="NewsX World (576p)" tvg-logo="https://ui-avatars.com/api/?name=NewsX%20World%20&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", NewsX World (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/NewsX%20World%20(576p).m3u8
-#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD" tvg-name="Hare Krsna TV (576p)" tvg-logo="https://ui-avatars.com/api/?name=Hare%20Krsna%20T&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Hare Krsna TV (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Hare%20Krsna%20TV%20(576p).m3u8
 #EXTINF:-1 tvg-id="ParasGold.in@SD" tvg-name="Paras Gold (576p)" tvg-logo="https://ui-avatars.com/api/?name=Paras%20Gold%20(&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Paras Gold (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Paras%20Gold%20(576p).m3u8
@@ -1980,9 +1932,6 @@ https://homair-tv-production.up.railway.app/api/play/PTC%20Punjabi%20(576p).m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD" tvg-name="PTC Punjabi Gold (576p)" tvg-logo="https://ui-avatars.com/api/?name=PTC%20Punjabi%20&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", PTC Punjabi Gold (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/PTC%20Punjabi%20Gold%20(576p).m3u8
-#EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-name="PTC Music (576p)" tvg-logo="https://ui-avatars.com/api/?name=PTC%20Music%20(5&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", PTC Music (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/PTC%20Music%20(576p).m3u8
 #EXTINF:-1 tvg-id="PTCChakde.in@SD" tvg-name="PTC Chakde (576p)" tvg-logo="https://ui-avatars.com/api/?name=PTC%20Chakde%20(&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", PTC Chakde (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/PTC%20Chakde%20(576p).m3u8
@@ -1998,9 +1947,6 @@ https://homair-tv-production.up.railway.app/api/play/PTC%20News%20(576p).m3u8
 #EXTINF:-1 tvg-id="LivingIndiaNews.in@SD" tvg-name="Living India News (576p)" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", Living India News (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Living%20India%20News%20(576p).m3u8
-#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" tvg-name="Chardikla Time TV (576p)" tvg-logo="https://ui-avatars.com/api/?name=Chardikla%20Ti&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Chardikla Time TV (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Chardikla%20Time%20TV%20(576p).m3u8
 #EXTINF:-1 tvg-id="PTCSimran.in@SD" tvg-name="PTC Simran (576p)" tvg-logo="https://ui-avatars.com/api/?name=PTC%20Simran%20(&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", PTC Simran (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/PTC%20Simran%20(576p).m3u8
@@ -2025,9 +1971,6 @@ https://homair-tv-production.up.railway.app/api/play/Pudhari%20News%20(576p).m3u
 #EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" tvg-name="B4U Bhojpuri (576p)" tvg-logo="https://ui-avatars.com/api/?name=B4U%20Bhojpuri&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", B4U Bhojpuri (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/B4U%20Bhojpuri%20(576p).m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema (576p)" tvg-logo="https://ui-avatars.com/api/?name=Bhojpuri%20Cin&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Bhojpuri Cinema (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Bhojpuri%20Cinema%20(576p).m3u8
 #EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" tvg-name="Sangeet Bhojpuri (576p)" tvg-logo="https://ui-avatars.com/api/?name=Sangeet%20Bhoj&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Sangeet Bhojpuri (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Sangeet%20Bhojpuri%20(576p).m3u8
@@ -2085,9 +2028,6 @@ https://homair-tv-production.up.railway.app/api/play/Kappa%20TV%20(576p).m3u8
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-name="Kairali We (576p)" tvg-logo="https://ui-avatars.com/api/?name=Kairali%20We%20(&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Kairali We (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Kairali%20We%20(576p).m3u8
-#EXTINF:-1 tvg-id="MazhavilManorama.in@SD" tvg-name="Mazhavil Manorama (576p)" tvg-logo="https://ui-avatars.com/api/?name=Mazhavil%20Man&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Mazhavil Manorama (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Mazhavil%20Manorama%20(576p).m3u8
 #EXTINF:-1 tvg-id="KairaliNews.in@SD" tvg-name="Kairali News (576p)" tvg-logo="https://ui-avatars.com/api/?name=Kairali%20News&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Kairali News (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Kairali%20News%20(576p).m3u8
@@ -2142,9 +2082,6 @@ https://homair-tv-production.up.railway.app/api/play/Dhoom%20Music%20(576p).m3u8
 #EXTINF:-1 tvg-id="RongeenTV.in@SD" tvg-name="Rongeen TV (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NTV_%28Bangladesh%29_logo.svg/512px-NTV_%28Bangladesh%29_logo.svg.png" group-title="HomAir TV", Rongeen TV (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Rongeen%20TV%20(576p).m3u8
-#EXTINF:-1 tvg-id="RepublicBangla.in@SD" tvg-name="Republic Bangla (576p)" tvg-logo="https://ui-avatars.com/api/?name=Republic%20Ban&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Republic Bangla (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Republic%20Bangla%20(576p).m3u8
 #EXTINF:-1 tvg-id="TV9Bangla.in@SD" tvg-name="TV9 Bangla (576p)" tvg-logo="https://ui-avatars.com/api/?name=TV9%20Bangla%20(&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", TV9 Bangla (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/TV9%20Bangla%20(576p).m3u8
@@ -2160,9 +2097,6 @@ https://homair-tv-production.up.railway.app/api/play/Argus%20News%20(576p).m3u8
 #EXTINF:-1 tvg-id="PrameyaNews7.in@SD" tvg-name="Prameya News7 (576p)" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", Prameya News7 (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Prameya%20News7%20(576p).m3u8
-#EXTINF:-1 tvg-id="OdishaTV.in@SD" tvg-name="Odisha TV (576p)" tvg-logo="https://ui-avatars.com/api/?name=Odisha%20TV%20(5&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Odisha TV (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Odisha%20TV%20(576p).m3u8
 #EXTINF:-1 tvg-id="Rengoni.in@SD" tvg-name="Rengoni (576p)" tvg-logo="https://ui-avatars.com/api/?name=Rengoni%20(576&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Rengoni (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Rengoni%20(576p).m3u8
@@ -2196,9 +2130,6 @@ https://homair-tv-production.up.railway.app/api/play/Salaam%20TV%20(576p).m3u8
 #EXTINF:-1 tvg-id="ChannelWIN.in@SD" tvg-name="Channel WIN (576p)" tvg-logo="https://ui-avatars.com/api/?name=Channel%20WIN%20&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Channel WIN (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Channel%20WIN%20(576p).m3u8
-#EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-name="Nepal 1 (576p)" tvg-logo="https://ui-avatars.com/api/?name=Nepal%201%20(576&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Nepal 1 (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Nepal%201%20(576p).m3u8
 #EXTINF:-1 tvg-id="TaazaTV.in@SD" tvg-name="Taaza TV (576p)" tvg-logo="https://ui-avatars.com/api/?name=Taaza%20TV%20(57&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Taaza TV (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Taaza%20TV%20(576p).m3u8
@@ -2307,9 +2238,6 @@ https://homair-tv-production.up.railway.app/api/play/WOW%20Kidz%20Tamil%20(720p)
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD" tvg-name="Zee Uttar Pradesh/Uttarakhand (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Desh_TV_logo.svg/512px-Desh_TV_logo.svg.png" group-title="HomAir TV", Zee Uttar Pradesh/Uttarakhand (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Zee%20Uttar%20Pradesh%2FUttarakhand%20(576p).m3u8
-#EXTINF:-1 tvg-id="ZeeNews.in@SD" tvg-name="Zee News (576p)" tvg-logo="https://ui-avatars.com/api/?name=Zee%20News%20(57&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Zee News (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Zee%20News%20(576p).m3u8
 #EXTINF:-1 tvg-id="ZeeBharat.in@SD" tvg-name="Zee Bharat (576p)" tvg-logo="https://ui-avatars.com/api/?name=Zee%20Bharat%20(&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Zee Bharat (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Zee%20Bharat%20(576p).m3u8
@@ -2355,9 +2283,6 @@ https://homair-tv-production.up.railway.app/api/play/SVBC%204%20(576p).m3u8
 #EXTINF:-1 tvg-id="SuvarnaNews.in@SD" tvg-name="Suvarna News (576p)" tvg-logo="https://ui-avatars.com/api/?name=Suvarna%20News&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Suvarna News (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Suvarna%20News%20(576p).m3u8
-#EXTINF:-1 tvg-id="SubhavaarthaTV.in@SD" tvg-name="Subhavaartha TV (576p)" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", Subhavaartha TV (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Subhavaartha%20TV%20(576p).m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-name="Studio One + (576p)" tvg-logo="https://ui-avatars.com/api/?name=Studio%20One%20%2B&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Studio One + (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Studio%20One%20%2B%20(576p).m3u8
@@ -2474,10 +2399,7 @@ https://homair-tv-production.up.railway.app/api/play/Colors%20Bangla%20HD%20(108
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 #EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-name="Hungama TV (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hungama_TV_Logo.svg/512px-Hungama_TV_Logo.svg.png" group-title="HomAir TV",Hungama TV (576p) (Backup)
-https://stream-proxy.xubilas-era.workers.dev/hungama2.m3u8
-#EXTINF:-1 tvg-id="SuperHungama.in@SD" tvg-name="Super Hungama (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hungama_TV_Logo.svg/512px-Hungama_TV_Logo.svg.png" group-title="HomAir TV", Super Hungama (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+http://103.185.24.134:3001/HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-name="Sony Aath (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Sony_Aath_logo.svg/512px-Sony_Aath_logo.svg.png" group-title="HomAir TV", Sony Aath (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Sony%20Aath%20(576p).m3u8
@@ -2589,9 +2511,6 @@ https://homair-tv-production.up.railway.app/api/play/Sony%20Sports%20Ten%204%20T
 #EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-name="Sony Sports Ten 5 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Sony_Sports_Network_logo.svg/512px-Sony_Sports_Network_logo.svg.png" group-title="HomAir TV", Sony Sports Ten 5 (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Sony%20Sports%20Ten%205%20(1080p).m3u8
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-name="Sony Yay! (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Sony_Yay_Logo.svg/512px-Sony_Yay_Logo.svg.png" group-title="HomAir TV", Sony Yay! (1080p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Sony%20Yay!%20(1080p).m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-name="Sony Pix HD (1080p)" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", Sony Pix HD (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Sony%20Pix%20HD%20(1080p).m3u8
@@ -2670,9 +2589,6 @@ https://homair-tv-production.up.railway.app/api/play/BVG%20(576p).m3u8
 #EXTINF:-1 tvg-id="AsomLive24.in@SD" tvg-name="Asom Live 24 (576p)" tvg-logo="https://ui-avatars.com/api/?name=Asom%20Live%2024&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Asom Live 24 (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Asom%20Live%2024%20(576p).m3u8
-#EXTINF:-1 tvg-id="KalingaTV.in@SD" tvg-name="Kalinga TV (720p)" tvg-logo="https://ui-avatars.com/api/?name=Kalinga%20TV%20(&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Kalinga TV (720p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Kalinga%20TV%20(720p).m3u8
 #EXTINF:-1 tvg-id="OnlyBharat.in@SD" tvg-name="Only Bharat (576p)" tvg-logo="https://ui-avatars.com/api/?name=Only%20Bharat%20&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Only Bharat (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Only%20Bharat%20(576p).m3u8
@@ -2691,9 +2607,6 @@ https://homair-tv-production.up.railway.app/api/play/News%2011%20(576p).m3u8
 #EXTINF:-1 tvg-id="RPlus.in@SD" tvg-name="R Plus (576p)" tvg-logo="https://ui-avatars.com/api/?name=R%20Plus%20(576p&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", R Plus (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/R%20Plus%20(576p).m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in@SD" tvg-name="Asianet News (576p)" tvg-logo="https://ui-avatars.com/api/?name=Asianet%20News&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Asianet News (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Asianet%20News%20(576p).m3u8
 #EXTINF:-1 tvg-id="SuvarnaNews.in@SD" tvg-name="Suvarna News SD (576p)" tvg-logo="https://ui-avatars.com/api/?name=Suvarna%20News&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Suvarna News SD (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Suvarna%20News%20SD%20(576p).m3u8
@@ -2817,9 +2730,6 @@ https://homair-tv-production.up.railway.app/api/play/Friends%20TV%20(1080p).m3u8
 #EXTINF:-1 tvg-id="HeadlinesTripura.in@SD" tvg-name="Headlines Tripura (720p)" tvg-logo="https://ui-avatars.com/api/?name=Headlines%20Tr&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Headlines Tripura (720p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Headlines%20Tripura%20(720p).m3u8
-#EXTINF:-1 tvg-id="HindiKhabar.in@SD" tvg-name="Hindi Khabar (1080p)" tvg-logo="https://ui-avatars.com/api/?name=Hindi%20Khabar&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Hindi Khabar (1080p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Hindi%20Khabar%20(1080p).m3u8
 #EXTINF:-1 tvg-id="Kadak.in@SD" tvg-name="Kadak (1080p)" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", Kadak (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Kadak%20(1080p).m3u8
@@ -2895,9 +2805,6 @@ https://homair-tv-production.up.railway.app/api/play/CVR%20News%20(576p).m3u8
 #EXTINF:-1 tvg-id="Prime9News.in@SD" tvg-name="Prime9 News (1080p)" tvg-logo="https://ui-avatars.com/api/?name=Prime9%20News%20&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Prime9 News (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Prime9%20News%20(1080p).m3u8
-#EXTINF:-1 tvg-id="MahaaNews.in@SD" tvg-name="Mahaa News (1080p)" tvg-logo="https://ui-avatars.com/api/?name=Mahaa%20News%20(&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Mahaa News (1080p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Mahaa%20News%20(1080p).m3u8
 #EXTINF:-1 tvg-id="HMTV.in@SD" tvg-name="HMTV (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/MTV_India_logo.svg/512px-MTV_India_logo.svg.png" group-title="HomAir TV", HMTV (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/HMTV%20(576p).m3u8
@@ -2907,9 +2814,6 @@ https://homair-tv-production.up.railway.app/api/play/Mahaa%20Max%20(1080p).m3u8
 #EXTINF:-1 tvg-id="CVRHealth.in@SD" tvg-name="CVR Health (576p)" tvg-logo="https://ui-avatars.com/api/?name=CVR%20Health%20(&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", CVR Health (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/CVR%20Health%20(576p).m3u8
-#EXTINF:-1 tvg-id="News9Live.in@SD" tvg-name="News9Live (576p)" tvg-logo="https://ui-avatars.com/api/?name=News9Live%20(5&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", News9Live (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/News9Live%20(576p).m3u8
 #EXTINF:-1 tvg-id="Mastiii.in@SD" tvg-name="Mastiii (576p)" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", Mastiii (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Mastiii%20(576p).m3u8
@@ -2928,9 +2832,6 @@ https://homair-tv-production.up.railway.app/api/play/ETV%20Life%20(1080p).m3u8
 #EXTINF:-1 tvg-id="HinduDharmam.in@SD" tvg-name="Hindu Dharmam (1080p)" tvg-logo="https://ui-avatars.com/api/?name=Hindu%20Dharma&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Hindu Dharmam (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Hindu%20Dharmam%20(1080p).m3u8
-#EXTINF:-1 tvg-id="AasthaTelugu.in@SD" tvg-name="Aastha Telugu (576p)" tvg-logo="https://ui-avatars.com/api/?name=Aastha%20Telug&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Aastha Telugu (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Aastha%20Telugu%20(576p).m3u8
 #EXTINF:-1 tvg-id="AradanaTV.in@SD" tvg-name="Aradana TV (576p)" tvg-logo="https://ui-avatars.com/api/?name=Aradana%20TV%20(&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Aradana TV (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Aradana%20TV%20(576p).m3u8
@@ -2940,15 +2841,9 @@ https://homair-tv-production.up.railway.app/api/play/Sai%20TV%20(576p).m3u8
 #EXTINF:-1 tvg-id="HarvestTV.in@SD" tvg-name="Harvest TV (1080p)" tvg-logo="https://ui-avatars.com/api/?name=Harvest%20TV%20(&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Harvest TV (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Harvest%20TV%20(1080p).m3u8
-#EXTINF:-1 tvg-id="Network10.in@SD" tvg-name="Network 10 (720p)" tvg-logo="https://ui-avatars.com/api/?name=Network%2010%20(&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Network 10 (720p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Network%2010%20(720p).m3u8
 #EXTINF:-1 tvg-id="SVBC.in@SD" tvg-name="SVBC (720p)" tvg-logo="https://ui-avatars.com/api/?name=SVBC%20(720p)&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", SVBC (720p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/SVBC%20(720p).m3u8
-#EXTINF:-1 tvg-id="ABPNews.in@SD" tvg-name="ABP News (720p)" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", ABP News (720p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/ABP%20News%20(720p).m3u8
 #EXTINF:-1 tvg-id="NewsX.in@SD" tvg-name="NewsX (720p)" tvg-logo="https://ui-avatars.com/api/?name=NewsX%20(720p)&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", NewsX (720p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/NewsX%20(720p).m3u8
@@ -2991,9 +2886,6 @@ https://homair-tv-production.up.railway.app/api/play/Pulari%20TV%20(576p).m3u8
 #EXTINF:-1 tvg-id="ChannelDivya.in@SD" tvg-name="Channel Divya (720p)" tvg-logo="https://ui-avatars.com/api/?name=Channel%20Divy&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Channel Divya (720p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Channel%20Divya%20(720p).m3u8
-#EXTINF:-1 tvg-id="RepublicKannada.in@SD" tvg-name="Republic Kannada (720p)" tvg-logo="https://ui-avatars.com/api/?name=Republic%20Kan&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Republic Kannada (720p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Republic%20Kannada%20(720p).m3u8
 #EXTINF:-1 tvg-id="Captain.in@SD" tvg-name="Captain (576p)" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", Captain (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Captain%20(576p).m3u8
@@ -3018,9 +2910,6 @@ https://homair-tv-production.up.railway.app/api/play/Kanak%20News%20(576p).m3u8
 #EXTINF:-1 tvg-id="DDNational.in@HD" tvg-name="DD National HD (1080p)" tvg-logo="https://ui-avatars.com/api/?name=DD%20National%20&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", DD National HD (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/DD%20National%20HD%20(1080p).m3u8
-#EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-name="DD India (1080p)" tvg-logo="https://ui-avatars.com/api/?name=DD%20India%20(10&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", DD India (1080p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/DD%20India%20(1080p).m3u8
 #EXTINF:-1 tvg-id="DDNews.in@SD" tvg-name="DD News (1080p)" tvg-logo="https://ui-avatars.com/api/?name=DD%20News%20(108&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", DD News (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/DD%20News%20(1080p).m3u8
@@ -3063,9 +2952,6 @@ https://homair-tv-production.up.railway.app/api/play/Music%20India%20(576p)%20%5
 #EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-name="Goldmines 2 (576p)" tvg-logo="https://ui-avatars.com/api/?name=Goldmines%202%20&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Goldmines 2 (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Goldmines%202%20(576p).m3u8
-#EXTINF:-1 tvg-id="ChannelDivya.in@SD" tvg-name="Channel Divya (576p)" tvg-logo="https://ui-avatars.com/api/?name=Channel%20Divy&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Channel Divya (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Channel%20Divya%20(576p).m3u8
 #EXTINF:-1 tvg-id="BhagyamTV.in@SD" tvg-name="Bhagyam TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/MTV_India_logo.svg/512px-MTV_India_logo.svg.png" group-title="HomAir TV", Bhagyam TV (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Bhagyam%20TV%20(1080p).m3u8
@@ -3294,9 +3180,6 @@ https://homair-tv-production.up.railway.app/api/play/Colors%20Tamil%20(576p).m3u
 #EXTINF:-1 tvg-id="FatehTV.in@SD" tvg-name="Fateh TV (576p)" tvg-logo="https://ui-avatars.com/api/?name=Fateh%20TV%20(57&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Fateh TV (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Fateh%20TV%20(576p).m3u8
-#EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-name="INH 24x7 (576p)" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", INH 24x7 (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/INH%2024x7%20(576p).m3u8
 #EXTINF:-1 tvg-id="KalaignarTV.in@SD" tvg-name="Kalaignar TV (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/RTV_Bangladesh_Logo.svg/512px-RTV_Bangladesh_Logo.svg.png" group-title="HomAir TV", Kalaignar TV (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Kalaignar%20TV%20(576p).m3u8
@@ -3312,9 +3195,6 @@ https://homair-tv-production.up.railway.app/api/play/Sidharth%20Utsav%20(576p).m
 #EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-name="News J (576p)" tvg-logo="https://ui-avatars.com/api/?name=News%20J%20(576p&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", News J (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/News%20J%20(576p).m3u8
-#EXTINF:-1 tvg-id="SamayKolkata.in@SD" tvg-name="Samay Kolkata (576p)" tvg-logo="https://ui-avatars.com/api/?name=Samay%20Kolkat&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Samay Kolkata (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Samay%20Kolkata%20(576p).m3u8
 #EXTINF:-1 tvg-id="TotalTVHaryana.in@SD" tvg-name="Total TV Haryana (576p)" tvg-logo="https://ui-avatars.com/api/?name=Total%20TV%20Har&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Total TV Haryana (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Total%20TV%20Haryana%20(576p).m3u8
@@ -3516,9 +3396,6 @@ https://homair-tv-production.up.railway.app/api/play/Live%20Samachar%20Bharat%20
 #EXTINF:-1 tvg-id="BharatUpdate.in@SD" tvg-name="Bharat Update (576p)" tvg-logo="https://ui-avatars.com/api/?name=Bharat%20Updat&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Bharat Update (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Bharat%20Update%20(576p).m3u8
-#EXTINF:-1 tvg-id="PrimeNews.in@SD" tvg-name="Prime News" tvg-logo="https://ui-avatars.com/api/?name=Prime%20News&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Prime News
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Prime%20News.m3u8
 #EXTINF:-1 tvg-id="PrarthanaTV.in@SD" tvg-name="Prarthana TV (576p)" tvg-logo="https://ui-avatars.com/api/?name=Prarthana%20TV&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Prarthana TV (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Prarthana%20TV%20(576p).m3u8
@@ -3552,9 +3429,6 @@ https://homair-tv-production.up.railway.app/api/play/M%20Nadu%20TV%20(576p).m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-name="Colors Cineplex (576p)" tvg-logo="https://ui-avatars.com/api/?name=Colors%20Cinep&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Colors Cineplex (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Colors%20Cineplex%20(576p).m3u8
-#EXTINF:-1 tvg-id="ZeeTelugu.in@HD" tvg-name="Zee Telugu HD (576p)" tvg-logo="https://ui-avatars.com/api/?name=Zee%20Telugu%20H&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Zee Telugu HD (576p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Zee%20Telugu%20HD%20(576p).m3u8
 #EXTINF:-1 tvg-id="JeevanTV.in@SD" tvg-name="Jeevan TV (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NTV_%28Bangladesh%29_logo.svg/512px-NTV_%28Bangladesh%29_logo.svg.png" group-title="HomAir TV", Jeevan TV (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Jeevan%20TV%20(576p).m3u8
