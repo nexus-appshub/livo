@@ -230,7 +230,10 @@ https://homair-tv-production.up.railway.app/api/play/ZEE%20BANGLA%20CINEMA.m3u8
 https://homair-tv-production.up.railway.app/api/play/News18%20Bangla.m3u8
 #EXTINF:-1 tvg-id="s98" tvg-name="HungamaTV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgfEjh2jabLKHxc4dDA_yHDC3NoJkmsrrCMxyadqFkGZGdd8AON5typmuDVsZCLBl9TLjeYhkyfV7eVz0kiQ4wgl10B6gEg6pwR6Yk_2QBAm-X2BYPH0RrkleBz9cV8k-EYf4hEQynj194rX5stXOJ3hzQ-oP3AqI73BLx_yIFZdelBvmjaw6moGmPu0uLG" group-title="Kids", HungamaTV
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-tv-production.up.railway.app/api/play/HungamaTV.m3u8
+https://stream-proxy.xubilas-era.workers.dev/hungama1.m3u8
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+#EXTINF:-1 tvg-id="s98" tvg-name="HungamaTV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgfEjh2jabLKHxc4dDA_yHDC3NoJkmsrrCMxyadqFkGZGdd8AON5typmuDVsZCLBl9TLjeYhkyfV7eVz0kiQ4wgl10B6gEg6pwR6Yk_2QBAm-X2BYPH0RrkleBz9cV8k-EYf4hEQynj194rX5stXOJ3hzQ-oP3AqI73BLx_yIFZdelBvmjaw6moGmPu0uLG" group-title="Kids",HungamaTV (Backup)
+https://stream-proxy.xubilas-era.workers.dev/hungama2.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" tvg-language="English" group-title="Kids",SUPER HUNGAMA
 https://stream-proxy.xubilas-era.workers.dev/superhungama1.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" tvg-language="English" group-title="Kids",SUPER HUNGAMA (Backup)
@@ -883,7 +886,10 @@ https://homair-tv-production.up.railway.app/api/play/Nick.m3u8
 https://homair-tv-production.up.railway.app/api/play/Nick%20Jr.m3u8
 #EXTINF:-1 tvg-id="s98" tvg-name="HungamaTV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgfEjh2jabLKHxc4dDA_yHDC3NoJkmsrrCMxyadqFkGZGdd8AON5typmuDVsZCLBl9TLjeYhkyfV7eVz0kiQ4wgl10B6gEg6pwR6Yk_2QBAm-X2BYPH0RrkleBz9cV8k-EYf4hEQynj194rX5stXOJ3hzQ-oP3AqI73BLx_yIFZdelBvmjaw6moGmPu0uLG" group-title="Kids", HungamaTV
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-tv-production.up.railway.app/api/play/HungamaTV.m3u8
+https://stream-proxy.xubilas-era.workers.dev/hungama1.m3u8
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+#EXTINF:-1 tvg-id="s98" tvg-name="HungamaTV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgfEjh2jabLKHxc4dDA_yHDC3NoJkmsrrCMxyadqFkGZGdd8AON5typmuDVsZCLBl9TLjeYhkyfV7eVz0kiQ4wgl10B6gEg6pwR6Yk_2QBAm-X2BYPH0RrkleBz9cV8k-EYf4hEQynj194rX5stXOJ3hzQ-oP3AqI73BLx_yIFZdelBvmjaw6moGmPu0uLG" group-title="Kids",HungamaTV (Backup)
+https://stream-proxy.xubilas-era.workers.dev/hungama2.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-name="Super Hungama" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" tvg-language="English" group-title="Kids",Super Hungama
 https://stream-proxy.xubilas-era.workers.dev/superhungama1.m3u8
 #EXTINF:-1 tvg-id="pogo" tvg-name="POGO" tvg-logo="https://i.imgur.com/pogotv.png" tvg-language="English" group-title="Kids",POGO
@@ -1176,7 +1182,10 @@ https://homair-tv-production.up.railway.app/api/play/Cartoon%20Network.m3u8
 https://homair-tv-production.up.railway.app/api/play/Nick.m3u8
 #EXTINF:-1 tvg-id="s98" tvg-name="HungamaTV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgfEjh2jabLKHxc4dDA_yHDC3NoJkmsrrCMxyadqFkGZGdd8AON5typmuDVsZCLBl9TLjeYhkyfV7eVz0kiQ4wgl10B6gEg6pwR6Yk_2QBAm-X2BYPH0RrkleBz9cV8k-EYf4hEQynj194rX5stXOJ3hzQ-oP3AqI73BLx_yIFZdelBvmjaw6moGmPu0uLG" group-title="Kids", HungamaTV
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-tv-production.up.railway.app/api/play/HungamaTV.m3u8
+https://stream-proxy.xubilas-era.workers.dev/hungama1.m3u8
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+#EXTINF:-1 tvg-id="s98" tvg-name="HungamaTV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgfEjh2jabLKHxc4dDA_yHDC3NoJkmsrrCMxyadqFkGZGdd8AON5typmuDVsZCLBl9TLjeYhkyfV7eVz0kiQ4wgl10B6gEg6pwR6Yk_2QBAm-X2BYPH0RrkleBz9cV8k-EYf4hEQynj194rX5stXOJ3hzQ-oP3AqI73BLx_yIFZdelBvmjaw6moGmPu0uLG" group-title="Kids",HungamaTV (Backup)
+https://stream-proxy.xubilas-era.workers.dev/hungama2.m3u8
 #EXTINF:-1 tvg-id="s99" tvg-name="Sony Sab HD" tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp" group-title="Family", Sony Sab HD
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
 https://homair-tv-production.up.railway.app/api/play/Sony%20Sab%20HD.m3u8
