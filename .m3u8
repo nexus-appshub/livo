@@ -527,7 +527,10 @@ https://homair-tv-production.up.railway.app/api/play/Nick.m3u8
 https://homair-tv-production.up.railway.app/api/play/Nick%20Jr.m3u8
 #EXTINF:-1 tvg-id="hungamatv" tvg-name="Hungama TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="HomAir TV", Hungama TV
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
-https://homair-tv-production.up.railway.app/api/play/Hungama%20TV.m3u8
+https://stream-proxy.xubilas-era.workers.dev/hungama1.m3u8
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live
+#EXTINF:-1 tvg-id="hungamatv" tvg-name="Hungama TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="HomAir TV",Hungama TV (Backup)
+https://stream-proxy.xubilas-era.workers.dev/hungama2.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-name="Super Hungama" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" group-title="HomAir TV", Super Hungama
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://stream-proxy.xubilas-era.workers.dev/superhungama1.m3u8
