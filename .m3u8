@@ -530,7 +530,10 @@ https://homair-tv-production.up.railway.app/api/play/Nick%20Jr.m3u8
 https://homair-tv-production.up.railway.app/api/play/Hungama%20TV.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-name="Super Hungama" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" group-title="HomAir TV", Super Hungama
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
-https://homair-tv-production.up.railway.app/api/play/Super%20Hungama.m3u8
+https://stream-proxy.xubilas-era.workers.dev/superhungama1.m3u8
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live
+#EXTINF:-1 tvg-id="superhungama" tvg-name="Super Hungama" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" group-title="HomAir TV",Super Hungama (Backup)
+https://stream-proxy.xubilas-era.workers.dev/superhungama2.m3u8
 #EXTINF:-1 tvg-id="cartoonnetworkhd" tvg-name="Cartoon Network HD +" tvg-logo="https://i.imgur.com/cartoonnetwork.png" group-title="HomAir TV", Cartoon Network HD +
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://homair-tv-production.up.railway.app/api/play/Cartoon%20Network%20HD%20%2B.m3u8
