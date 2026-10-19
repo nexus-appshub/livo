@@ -272,7 +272,10 @@ https://homair-tv-production.up.railway.app/api/play/STAR%20SPORTS2%20HD.m3u8
 https://homair-tv-production.up.railway.app/api/play/Sun%20Bangla.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" group-title="HomAir TV", SUPER HUNGAMA
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
-https://homair-tv-production.up.railway.app/api/play/SUPER%20HUNGAMA.m3u8
+https://stream-proxy.xubilas-era.workers.dev/superhungama1.m3u8
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
+#EXTINF:-1 tvg-id="superhungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" group-title="HomAir TV",SUPER HUNGAMA (Backup)
+https://stream-proxy.xubilas-era.workers.dev/superhungama2.m3u8
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T SPORTS HD" tvg-logo="https://tv.moviemasti.net/assets/images/T-SPORTS-HD1787252188.png?v=1" group-title="HomAir TV", T SPORTS HD
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
 https://homair-tv-production.up.railway.app/api/play/T%20SPORTS%20HD.m3u8
@@ -2468,7 +2471,7 @@ https://homair-tv-production.up.railway.app/api/play/Colors%20Bangla%20HD%20(108
 https://homair-tv-production.up.railway.app/api/play/Hungama%20TV%20(576p).m3u8
 #EXTINF:-1 tvg-id="SuperHungama.in@SD" tvg-name="Super Hungama (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hungama_TV_Logo.svg/512px-Hungama_TV_Logo.svg.png" group-title="HomAir TV", Super Hungama (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Super%20Hungama%20(576p).m3u8
+https://stream-proxy.xubilas-era.workers.dev/superhungama1.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-name="Sony Aath (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Sony_Aath_logo.svg/512px-Sony_Aath_logo.svg.png" group-title="HomAir TV", Sony Aath (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Sony%20Aath%20(576p).m3u8
