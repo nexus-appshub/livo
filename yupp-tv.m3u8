@@ -122,7 +122,7 @@ https://homair-tv-production.up.railway.app/api/play/HUNGAMA.m3u8
 https://homair-tv-production.up.railway.app/api/play/INDEPENDENT%20TV.m3u8
 #EXTINF:-1 tvg-id="jalshamovieshd" tvg-name="JALSHA MOVIES HD" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", JALSHA MOVIES HD
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
-https://homair-tv-production.up.railway.app/api/play/JALSHA%20MOVIES%20HD.m3u8
+https://homair-hell.up.railway.app/api/play/Jalsha%20Movies%20HD.m3u8
 #EXTINF:-1 tvg-id="jamunatv" tvg-name="JAMUNA TV" tvg-logo="https://tv.moviemasti.net/assets/images/JAMUNA.TV1787251696.png?v=1" group-title="HomAir TV", JAMUNA TV
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
 https://homair-tv-production.up.railway.app/api/play/JAMUNA%20TV.m3u8
@@ -3572,7 +3572,7 @@ https://homair-tv-production.up.railway.app/api/play/Sony%20Max%20HD%20(1080p).m
 https://homair-tv-production.up.railway.app/api/play/Sony%20BBC%20Earth%20HD%20(1080p).m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in@HD" tvg-name="Jalsha Movies HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Jalsha_Movies_logo.png/512px-Jalsha_Movies_logo.png" group-title="HomAir TV", Jalsha Movies HD (1080p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-tv-production.up.railway.app/api/play/Jalsha%20Movies%20HD%20(1080p).m3u8
+https://homair-hell.up.railway.app/api/play/Jalsha%20Movies%20HD.m3u8
 #EXTINF:-1 tvg-id="Unite8Sports2.in@SD" tvg-name="Unite8 Sports 2 (576p)" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", Unite8 Sports 2 (576p)
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-tv-production.up.railway.app/api/play/Unite8%20Sports%202%20(576p).m3u8
