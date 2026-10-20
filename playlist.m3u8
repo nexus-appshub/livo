@@ -44,6 +44,14 @@ https://cdn.xubilaswebdevcorp.shop/jem/a1/gemini_generated_video_70ad153e.mp4
 #EXTINF:-1 tvg-name="Homair TV" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" tvg-language="English" group-title="Family",Homair TV
 https://media.hmair.xyz/api/play/Toffee%20TV.m3u8
 
+#EXTINF:-1 tvg-id="s92" tvg-name="Star Movies" tvg-logo="https://tvassets.roarzone.net/images/starmovies.png" group-title="Movies", Star Movies
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://homair-hell.up.railway.app/api/play/Star%20Movies.m3u8
+
+#EXTINF:-1 tvg-id="s128" tvg-name="Star Movies Select HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7mAD3IhvL2X1uwl19Y3ezi4tIew5AEmJD0dG3L5tnWY0eQndG174QeyGeKqDcxWojkJWyen3MlghwsdjISR10n2mLtf1OBxNbEXeyU2kPJkOPed0NXe9p9kPJwxvRbBdLXHcqGgs8xpc-FWvpdoTN1COXBeXDiTiqX8DiN9K1S3eAXDTbOmiywuKA7bgh/s1600/image.png" group-title="Movies", Star Movies Select HD
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://homair-hell.up.railway.app/api/play/Star%20Movies%20Select%20HD.m3u8
+
 #EXTINF:-1 tvg-name="Homair Movies" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791023674621-156-0d05ef61-925e-48d8-9882-bd0cc894f1ba-1.png" tvg-language="English" group-title="Movies",Homair Movies
 https://media.hmair.xyz/api/play/Toffee%20Movies.m3u8
 
