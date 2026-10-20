@@ -2133,6 +2133,7 @@ https://homair-hell.up.railway.app/api/play/Zee%20News%20Telugu.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Zee%20Punjab%20Haryana%20Himachal.m3u8
 
+
 # --- YuppTV Entertainment channels ---
 
 #EXTINF:-1 tvg-id="yupp-asianet-plus" tvg-name="Asianet Plus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/lynvza.png" group-title="Entertainment", Asianet Plus
@@ -2255,6 +2256,7 @@ https://homair-hell.up.railway.app/api/play/Zee%20Tamil.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Zee%20Telugu%20HD.m3u8
 
+
 # --- YuppTV Movies channels ---
 
 #EXTINF:-1 tvg-id="yupp-asianet-movies" tvg-name="Asianet Movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/hbkgbu.png" group-title="Movies", Asianet Movies
@@ -2277,11 +2279,13 @@ https://homair-hell.up.railway.app/api/play/Mana%20TV.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Pitaara%20TV.m3u8
 
+
 # --- YuppTV Sports channels ---
 
 #EXTINF:-1 tvg-id="yupp-cricket-gold" tvg-name="Cricket Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/vzfqgi.png" group-title="Sports", Cricket Gold
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Cricket%20Gold.m3u8
+
 
 # --- YuppTV Music channels ---
 
@@ -2289,11 +2293,13 @@ https://homair-hell.up.railway.app/api/play/Cricket%20Gold.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Wah%20Punjabi.m3u8
 
+
 # --- YuppTV LifeStyle channels ---
 
 #EXTINF:-1 tvg-id="yupp-ndtv-goodtimes" tvg-name="NDTV GoodTimes" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/lpccou.png" group-title="LifeStyle", NDTV GoodTimes
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/NDTV%20GoodTimes.m3u8
+
 
 # --- YuppTV Business channels ---
 
