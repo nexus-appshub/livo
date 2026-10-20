@@ -1723,11 +1723,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-name="IN – Rana Cable Music" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/10/ranacablemusic-150x150.png?x89217" tvg-language="English" group-title="Music",IN – Rana Cable Music
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ranacablemusic.stream/playlist.m3u8?wmsAuthSign=
 
-#EXTINF:-1 tvg-id="yupp-wah-punjabi" tvg-name="Wah Punjabi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/hjjjgq.png" group-title="Music", Wah Punjabi
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-hell.up.railway.app/api/play/Wah%20Punjabi.m3u8
-
-# --- YuppTV LifeStyle channels ---
 
 #EXTINF:-1 tvg-id="channel24hd" tvg-name="CHANNEL 24 HD" tvg-logo="https://tv.moviemasti.net/assets/images/CHANNEL.24.HD1787251435.png?v=1" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Family",CHANNEL 24 HD
 https://homair-tv-production.up.railway.app/api/play/CHANNEL%2024%20HD.m3u8
@@ -1964,27 +1959,6 @@ https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8
 https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
 # DUPLICATE CHANNELS - DEAD STREAM: Shemaroo TV (HTTP 404)
 
-#EXTINF:-1 tvg-id="yupp-asianet-movies" tvg-name="Asianet Movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/hbkgbu.png" group-title="Movies", Asianet Movies
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-hell.up.railway.app/api/play/Asianet%20Movies.m3u8
-
-#EXTINF:-1 tvg-id="yupp-best-classic-tv" tvg-name="BEST CLASSIC TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/qbmjpt.png" group-title="Movies", BEST CLASSIC TV
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-hell.up.railway.app/api/play/BEST%20CLASSIC%20TV.m3u8
-
-#EXTINF:-1 tvg-id="yupp-maa-movies" tvg-name="Maa Movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/fntsxm.png" group-title="Movies", Maa Movies
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-hell.up.railway.app/api/play/Maa%20Movies.m3u8
-
-#EXTINF:-1 tvg-id="yupp-mana-tv" tvg-name="Mana TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/lojitg.png" group-title="Movies", Mana TV
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-hell.up.railway.app/api/play/Mana%20TV.m3u8
-
-#EXTINF:-1 tvg-id="yupp-pitaara-tv" tvg-name="Pitaara TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/aoorur.png" group-title="Movies", Pitaara TV
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-hell.up.railway.app/api/play/Pitaara%20TV.m3u8
-
-# --- YuppTV News channels ---
 
 #EXTINF:-1 tvg-id="019de785-3b4e-7660-b080-94ffb2a86b05" tvg-name="Shemaroo TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_73a0972a8bf15d3ec6bc07601297c4db_playmist_shemaroo_umang_400x400.jpg" group-title="Family",Shemaroo TV
 https://tvsen3.aynaott.com/27jCLCUX/index.m3u8
@@ -2003,6 +1977,97 @@ https://toffe-scraper.up.railway.app/api/play/Star%20News.m3u8
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD" tvg-name="Probashi TV News (1080p)" tvg-logo="https://i.imgur.com/7oTsfQ4.png" tvg-language="English" group-title="News",Probashi TV News (1080p)
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 # DUPLICATE CHANNELS - DEAD STREAM: Duronto TV (HTTP 404)
+
+
+#EXTINF:-1 tvg-id="durontotv" tvg-name="Duronto TV" tvg-logo="https://i.imgur.com/durontotv.png" tvg-language="English" group-title="Family",Duronto TV
+https://homair-tv-production.up.railway.app/api/play/Duronto%20TV.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: Bangla Plus (HTTP 404)
+
+#EXTINF:-1 tvg-id="sunbangla" tvg-name="Sun Bangla" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Family",Sun Bangla
+https://homair-tv-production.up.railway.app/api/play/Sun%20Bangla.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: SYFY TV (HTTP 404)
+
+#EXTINF:-1 tvg-id="019efa45-e1c4-7180-ab7a-bbdda91a5f63" tvg-name="SYFY TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/5197987c54eb44bb45969739d6433ad2.jpg" tvg-language="English" group-title="Family",SYFY TV
+https://tvsen6.aynaott.com/syfy/index.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: Geo ENT (HTTP 404)
+
+#EXTINF:-1 tvg-id="019de785-3b73-704a-84f5-817ac948026a" tvg-name="Geo ENT" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ec64adf4b1ed1539485f005a4eeb4ad5_playmist_geo_ent400x400.jpg" tvg-language="Urdu" group-title="Family",Geo ENT
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: Azan Tv (HTTP 404)
+
+#EXTINF:-1 tvg-name="Azan Tv" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" tvg-language="English" group-title="Family",Azan Tv
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: Deen TV (HTTP 404)
+
+#EXTINF:-1 tvg-id="starsports3" tvg-name="Star Sports 3" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" tvg-country="India" tvg-language="English" group-title="Sports",Star Sports 3
+https://homair-tv-production.up.railway.app/api/play/Star%20Sports%203.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: RTV (HTTP 404)
+
+#EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://i.imgur.com/rtvbd.png" tvg-language="English" group-title="Family",RTV
+https://homair-tv-production.up.railway.app/api/play/RTV.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: Deepto TV (HTTP 404)
+
+#EXTINF:-1 tvg-id="deeptotv" tvg-name="Deepto TV" tvg-logo="https://i.imgur.com/deeptotv.png" tvg-language="English" group-title="Family",Deepto TV
+https://homair-tv-production.up.railway.app/api/play/Deepto%20TV.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: Sun Bangla (HTTP 404)
+
+#EXTINF:-1 tvg-id="s18" tvg-name="SA TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sa-tv.png" group-title="Family", SA TV
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://homair-tv-production.up.railway.app/api/play/SA%20TV.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: Deepto TV (HTTP 404)
+
+#EXTINF:-1 tvg-id="s23" tvg-name="Maasranga TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhw0-2Lo31q_faZD1Zcf6_1C6CLZ3z4sxUdwdtCZaTSVEXINeqTQSyudQAfAs1qUzwUcnPh-k7vLFQTkw4axUibL0TyITAL_0yVy5XbbkbWaSKlJg1hHJ1nO5zPFmr7e8H2UAAHFTa0Zr3zleM0dkz8dCXCX5VDrKI6bVbM03YISmYyiZ8btMn3W4QogyWH" group-title="Family", Maasranga TV
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://homair-tv-production.up.railway.app/api/play/Maasranga%20TV.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: R TV (HTTP 404)
+
+#EXTINF:-1 tvg-id="s46" tvg-name="Bein Sports" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="Sports", Bein Sports
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://homair-tv-production.up.railway.app/api/play/Bein%20Sports.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: Bein Sports 2 (HTTP 404)
+
+#EXTINF:-1 tvg-id="s124" tvg-name="Bein Sports 2" tvg-logo="https://i.postimg.cc/FzGdttZ1/20250120_193818.png" group-title="Sports", Bein Sports 2
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://homair-tv-production.up.railway.app/api/play/Bein%20Sports%202.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: Bein Sports 3 (HTTP 404)
+
+#EXTINF:-1 tvg-id="s125" tvg-name="Bein Sports 3" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="Sports", Bein Sports 3
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://homair-tv-production.up.railway.app/api/play/Bein%20Sports%203.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: Star Sports 3 (HTTP 404)
+
+#EXTINF:-1 tvg-id="s48" tvg-name="Star Sports 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiK2BvWIdog5d4_UMPn02p00Bs7utBQ0-ud-qhIRY7WXSt1j930mzFCXqGWmeV1ddM9gCzmmlBvBlo_U6YIQaVmhYUXG4ERGYhqvXEp2qFpBz2md_7vDt_RpAvvUIm9xYrYGuf1ZNrfN8Nc4DnXxZKUOsoAbFLKWi3gGOQyD9YL5GKUQqA3ZbO2syY5ciOn" group-title="Sports", Star Sports 3
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://homair-tv-production.up.railway.app/api/play/Star%20Sports%203.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: Star Sports 2 (HTTP 404)
+
+#EXTINF:-1 tvg-id="s51" tvg-name="Star Sports 2" tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="Sports", Star Sports 2
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://homair-tv-production.up.railway.app/api/play/Star%20Sports%202.m3u8
+# DUPLICATE CHANNELS - DEAD STREAM: Sun Bangla (HTTP 404)
+
+
+#EXTINF:-1 tvg-name="DesheBideshe TV | Canada" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1-150x150.jpg?x89217" tvg-language="English" group-title="International",DesheBideshe TV | Canada
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8?wmsAuthSign=
+# DUPLICATE CHANNELS - DEAD STREAM: IN-Amar Digital (HTTP 404)
+
+#EXTINF:-1 tvg-name="IN-Ananda Barta" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ANANDABARTA-150x150.jpeg?x89217" tvg-language="English" group-title="Family",IN-Ananda Barta
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandabarta.stream/playlist.m3u8?wmsAuthSign=
+# DUPLICATE CHANNELS - DEAD STREAM: JaTV (HTTP 404)
+
+#EXTINF:-1 tvg-name="NAN TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02-150x150.png?x89217" tvg-language="English" group-title="Family",NAN TV
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8?wmsAuthSign=
+# DUPLICATE CHANNELS - DEAD STREAM: NRB TV | Canada (HTTP 404)
+
+#EXTINF:-1 tvg-name="DIM" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/dim-150x150.png?x89217" tvg-language="English" group-title="Family",DIM
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dimtv.stream/playlist.m3u8?wmsAuthSign=
+# DUPLICATE CHANNELS - UNVERIFIED ALTERNATIVE: IN – Rana Cable TV
+
+#EXTINF:-1 tvg-name="IN – Rana Cable TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/09/ranacabletv-150x150.png?x89217" tvg-language="English" group-title="Family",IN – Rana Cable TV
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ranacabletv.stream/playlist.m3u8?wmsAuthSign=
+# DUPLICATE CHANNELS - UNVERIFIED ALTERNATIVE: IN-Express News
+
+# --- YuppTV News channels ---
 
 #EXTINF:-1 tvg-id="yupp-aajtak" tvg-name="Aajtak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/fwverv.png" group-title="News", Aajtak
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
@@ -2100,100 +2165,6 @@ https://homair-hell.up.railway.app/api/play/Zee%20News%20Telugu.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Zee%20Punjab%20Haryana%20Himachal.m3u8
 
-# --- YuppTV Sports channels ---
-
-#EXTINF:-1 tvg-id="durontotv" tvg-name="Duronto TV" tvg-logo="https://i.imgur.com/durontotv.png" tvg-language="English" group-title="Family",Duronto TV
-https://homair-tv-production.up.railway.app/api/play/Duronto%20TV.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: Bangla Plus (HTTP 404)
-
-#EXTINF:-1 tvg-id="sunbangla" tvg-name="Sun Bangla" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Family",Sun Bangla
-https://homair-tv-production.up.railway.app/api/play/Sun%20Bangla.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: SYFY TV (HTTP 404)
-
-#EXTINF:-1 tvg-id="019efa45-e1c4-7180-ab7a-bbdda91a5f63" tvg-name="SYFY TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/5197987c54eb44bb45969739d6433ad2.jpg" tvg-language="English" group-title="Family",SYFY TV
-https://tvsen6.aynaott.com/syfy/index.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: Geo ENT (HTTP 404)
-
-#EXTINF:-1 tvg-id="019de785-3b73-704a-84f5-817ac948026a" tvg-name="Geo ENT" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ec64adf4b1ed1539485f005a4eeb4ad5_playmist_geo_ent400x400.jpg" tvg-language="Urdu" group-title="Family",Geo ENT
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: Azan Tv (HTTP 404)
-
-#EXTINF:-1 tvg-name="Azan Tv" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" tvg-language="English" group-title="Family",Azan Tv
-https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: Deen TV (HTTP 404)
-
-#EXTINF:-1 tvg-id="starsports3" tvg-name="Star Sports 3" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" tvg-country="India" tvg-language="English" group-title="Sports",Star Sports 3
-https://homair-tv-production.up.railway.app/api/play/Star%20Sports%203.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: RTV (HTTP 404)
-
-#EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://i.imgur.com/rtvbd.png" tvg-language="English" group-title="Family",RTV
-https://homair-tv-production.up.railway.app/api/play/RTV.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: Deepto TV (HTTP 404)
-
-#EXTINF:-1 tvg-id="deeptotv" tvg-name="Deepto TV" tvg-logo="https://i.imgur.com/deeptotv.png" tvg-language="English" group-title="Family",Deepto TV
-https://homair-tv-production.up.railway.app/api/play/Deepto%20TV.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: Sun Bangla (HTTP 404)
-
-#EXTINF:-1 tvg-id="s18" tvg-name="SA TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sa-tv.png" group-title="Family", SA TV
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-tv-production.up.railway.app/api/play/SA%20TV.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: Deepto TV (HTTP 404)
-
-#EXTINF:-1 tvg-id="s23" tvg-name="Maasranga TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhw0-2Lo31q_faZD1Zcf6_1C6CLZ3z4sxUdwdtCZaTSVEXINeqTQSyudQAfAs1qUzwUcnPh-k7vLFQTkw4axUibL0TyITAL_0yVy5XbbkbWaSKlJg1hHJ1nO5zPFmr7e8H2UAAHFTa0Zr3zleM0dkz8dCXCX5VDrKI6bVbM03YISmYyiZ8btMn3W4QogyWH" group-title="Family", Maasranga TV
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-tv-production.up.railway.app/api/play/Maasranga%20TV.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: R TV (HTTP 404)
-
-#EXTINF:-1 tvg-id="s46" tvg-name="Bein Sports" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="Sports", Bein Sports
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-tv-production.up.railway.app/api/play/Bein%20Sports.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: Bein Sports 2 (HTTP 404)
-
-#EXTINF:-1 tvg-id="s124" tvg-name="Bein Sports 2" tvg-logo="https://i.postimg.cc/FzGdttZ1/20250120_193818.png" group-title="Sports", Bein Sports 2
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-tv-production.up.railway.app/api/play/Bein%20Sports%202.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: Bein Sports 3 (HTTP 404)
-
-#EXTINF:-1 tvg-id="s125" tvg-name="Bein Sports 3" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="Sports", Bein Sports 3
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-tv-production.up.railway.app/api/play/Bein%20Sports%203.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: Star Sports 3 (HTTP 404)
-
-#EXTINF:-1 tvg-id="s48" tvg-name="Star Sports 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiK2BvWIdog5d4_UMPn02p00Bs7utBQ0-ud-qhIRY7WXSt1j930mzFCXqGWmeV1ddM9gCzmmlBvBlo_U6YIQaVmhYUXG4ERGYhqvXEp2qFpBz2md_7vDt_RpAvvUIm9xYrYGuf1ZNrfN8Nc4DnXxZKUOsoAbFLKWi3gGOQyD9YL5GKUQqA3ZbO2syY5ciOn" group-title="Sports", Star Sports 3
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-tv-production.up.railway.app/api/play/Star%20Sports%203.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: Star Sports 2 (HTTP 404)
-
-#EXTINF:-1 tvg-id="s51" tvg-name="Star Sports 2" tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="Sports", Star Sports 2
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-tv-production.up.railway.app/api/play/Star%20Sports%202.m3u8
-# DUPLICATE CHANNELS - DEAD STREAM: Sun Bangla (HTTP 404)
-
-#EXTINF:-1 tvg-id="yupp-cricket-gold" tvg-name="Cricket Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/vzfqgi.png" group-title="Sports", Cricket Gold
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-hell.up.railway.app/api/play/Cricket%20Gold.m3u8
-
-# --- YuppTV Music channels ---
-
-#EXTINF:-1 tvg-name="DesheBideshe TV | Canada" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1-150x150.jpg?x89217" tvg-language="English" group-title="International",DesheBideshe TV | Canada
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8?wmsAuthSign=
-# DUPLICATE CHANNELS - DEAD STREAM: IN-Amar Digital (HTTP 404)
-
-#EXTINF:-1 tvg-name="IN-Ananda Barta" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ANANDABARTA-150x150.jpeg?x89217" tvg-language="English" group-title="Family",IN-Ananda Barta
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandabarta.stream/playlist.m3u8?wmsAuthSign=
-# DUPLICATE CHANNELS - DEAD STREAM: JaTV (HTTP 404)
-
-#EXTINF:-1 tvg-name="NAN TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02-150x150.png?x89217" tvg-language="English" group-title="Family",NAN TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8?wmsAuthSign=
-# DUPLICATE CHANNELS - DEAD STREAM: NRB TV | Canada (HTTP 404)
-
-#EXTINF:-1 tvg-name="DIM" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/dim-150x150.png?x89217" tvg-language="English" group-title="Family",DIM
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dimtv.stream/playlist.m3u8?wmsAuthSign=
-# DUPLICATE CHANNELS - UNVERIFIED ALTERNATIVE: IN – Rana Cable TV
-
-#EXTINF:-1 tvg-name="IN – Rana Cable TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/09/ranacabletv-150x150.png?x89217" tvg-language="English" group-title="Family",IN – Rana Cable TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ranacabletv.stream/playlist.m3u8?wmsAuthSign=
-# DUPLICATE CHANNELS - UNVERIFIED ALTERNATIVE: IN-Express News
 
 # --- YuppTV Entertainment channels ---
 
@@ -2317,14 +2288,54 @@ https://homair-hell.up.railway.app/api/play/Zee%20Tamil.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Zee%20Telugu%20HD.m3u8
 
+
 # --- YuppTV Movies channels ---
+
+#EXTINF:-1 tvg-id="yupp-asianet-movies" tvg-name="Asianet Movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/hbkgbu.png" group-title="Movies", Asianet Movies
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Asianet%20Movies.m3u8
+
+#EXTINF:-1 tvg-id="yupp-best-classic-tv" tvg-name="BEST CLASSIC TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/qbmjpt.png" group-title="Movies", BEST CLASSIC TV
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/BEST%20CLASSIC%20TV.m3u8
+
+#EXTINF:-1 tvg-id="yupp-maa-movies" tvg-name="Maa Movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/fntsxm.png" group-title="Movies", Maa Movies
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Maa%20Movies.m3u8
+
+#EXTINF:-1 tvg-id="yupp-mana-tv" tvg-name="Mana TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/lojitg.png" group-title="Movies", Mana TV
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Mana%20TV.m3u8
+
+#EXTINF:-1 tvg-id="yupp-pitaara-tv" tvg-name="Pitaara TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/aoorur.png" group-title="Movies", Pitaara TV
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Pitaara%20TV.m3u8
+
+
+# --- YuppTV Sports channels ---
+
+#EXTINF:-1 tvg-id="yupp-cricket-gold" tvg-name="Cricket Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/vzfqgi.png" group-title="Sports", Cricket Gold
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Cricket%20Gold.m3u8
+
+
+# --- YuppTV Music channels ---
+
+#EXTINF:-1 tvg-id="yupp-wah-punjabi" tvg-name="Wah Punjabi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/hjjjgq.png" group-title="Music", Wah Punjabi
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-hell.up.railway.app/api/play/Wah%20Punjabi.m3u8
+
+
+# --- YuppTV LifeStyle channels ---
 
 #EXTINF:-1 tvg-id="yupp-ndtv-goodtimes" tvg-name="NDTV GoodTimes" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/lpccou.png" group-title="LifeStyle", NDTV GoodTimes
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/NDTV%20GoodTimes.m3u8
+
 
 # --- YuppTV Business channels ---
 
 #EXTINF:-1 tvg-id="yupp-ndtv-profit" tvg-name="NDTV Profit" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/dfjrsi.png" group-title="Business", NDTV Profit
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/NDTV%20Profit.m3u8
+
