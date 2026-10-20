@@ -880,8 +880,8 @@ https://homair-hell.up.railway.app/api/play/Super%20Hungama%20(Adaptive%20Master
 #EXTINF:-1 tvg-id="superhungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" tvg-language="English" group-title="Kids",SUPER HUNGAMA (Backup)
 https://homair-hell.up.railway.app/api/play/Tracks%20V1a1.m3u8?source=http%3A%2F%2F103.185.24.134%3A3001%2FSUPER-HUNGAMA%2Ftracks-v1a1%2Fmono.m3u8
 
-#EXTINF:-1 group-title="Sports",T-sport
-http://103.185.24.134:3001/TSportsHD/index.m3u8
+#EXTINF:-1 group-title="Sports",T Sports
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 
 #EXTINF:-1 tvg-id="019de785-3a5f-738e-b2e2-f6110c5e8c09" tvg-name="Dangal" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_98667878f9c1b3ec731feece5946b50b_playmist_dangal_400x400.jpg" tvg-language="English" group-title="Family",Dangal
 https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8
