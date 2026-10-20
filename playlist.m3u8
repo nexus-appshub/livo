@@ -1703,10 +1703,10 @@ http://103.185.24.134:3001/HUNGAMA/index.m3u8
 http://103.185.24.134:3001/HUNGAMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="superhungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" tvg-language="English" group-title="Kids",SUPER HUNGAMA
-http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+https://homair-hell.up.railway.app/api/play/Super%20Hungama%20(Adaptive%20Master).m3u8?source=http%3A%2F%2F103.185.24.134%3A3001%2FSUPER-HUNGAMA%2Findex.m3u8
 
 #EXTINF:-1 tvg-id="superhungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" tvg-language="English" group-title="Kids",SUPER HUNGAMA (Backup)
-http://103.185.24.134:3001/SUPER-HUNGAMA/tracks-v1a1/mono.m3u8
+https://homair-hell.up.railway.app/api/play/Tracks%20V1a1.m3u8?source=http%3A%2F%2F103.185.24.134%3A3001%2FSUPER-HUNGAMA%2Ftracks-v1a1%2Fmono.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3b50-7b52-bdb5-7b514bc2f01c" tvg-name="Dhamaal" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_8f0ba646b7ddfa1aa601dca63f16129c_playmist_dhamaal_400x400.jpg" tvg-language="English" group-title="Family",Dhamaal
 https://tvsen6.aynascope.com/F4Z6es8E/index.m3u8
