@@ -362,9 +362,9 @@ https://homair-tv-production.up.railway.app/api/play/SONY%20YAY.m3u8
 #EXTINF:-1 tvg-id="starbharathd" tvg-name="STAR BHARAT HD" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" tvg-language="English" group-title="Family",STAR BHARAT HD
 https://homair-tv-production.up.railway.app/api/play/STAR%20BHARAT%20HD.m3u8
 
-#EXTINF:-1 tvg-id="stargoldhd" tvg-name="STAR GOLD HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR.GOLD.HD1787247495.png?v=1" tvg-country="India" tvg-language="English" group-title="Movies",STAR GOLD HD
-https://homair-tv-production.up.railway.app/api/play/STAR%20GOLD%20HD.m3u8
-
+#EXTINF:-1 tvg-id="s118" tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/6pCXvxyz/20240823_022553.png" group-title="Movies", Star Gold HD
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://homair-hell.up.railway.app/api/play/Star%20Gold%20HD.m3u8
 #EXTINF:-1 tvg-id="stargoldselhd" tvg-name="STAR GOLD SEL HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR%20GOLD%20SELECT%20HD1745043508.png?v=1" tvg-country="India" tvg-language="English" group-title="Movies",STAR GOLD SEL HD
 https://homair-tv-production.up.railway.app/api/play/STAR%20GOLD%20SEL%20HD.m3u8
 
@@ -1475,3 +1475,7 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF
 # DUPLICATE CHANNELS - UNVERIFIED ALTERNATIVE: IN-Express News
 
 # --- YuppTV News channels ---
+
+#EXTINF:-1 tvg-id="s127" tvg-name="Star Gold 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg_J2N2bl6PhBZ_VxfDxMJaj6r2y3vMXFF8daMYNqH8RGSx0t9E93MVH4ddcnISgZCcP8NUip9HcONtzYxtBNLh5GYA8L46QPL-07L5Hfh2F1-ZvkJiBsYcgfaZiujvAAj2gz6buLA9m3D-Rt2QamODzfWVl5i1X7f-OXKOKRo4AZfktDTEciHqPSu2tIMw" group-title="Entertainment", Star Gold 2
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://homair-hell.up.railway.app/api/play/Star%20Gold%202.m3u8
