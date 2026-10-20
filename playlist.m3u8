@@ -37,7 +37,6 @@
 # ===============================
 # Group: Random
 
-
 #EXTM3U
 #EXTINF:-1 tvg-name="HOME AIR" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" tvg-language="English" group-title="Family",HOME AIR
 https://cdn.xubilaswebdevcorp.shop/jem/a1/gemini_generated_video_70ad153e.mp4
@@ -277,20 +276,9 @@ https://homair-tv-production.up.railway.app/api/play/News18%20Bangla.m3u8
 #EXTINF:-1 tvg-name="Sheemaroo Bollywood" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" tvg-language="English" group-title="Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="s68" tvg-name="Star Plus" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5m9yGNnqjxKSwhExMYy6yfu5I5_h9nZ_5qLPVYz8sm_eoFIHhtpV_S_L-SDEBS_AZ-2TAFdI9nmHk4058Nl9Na3Htt2oBOOYxgzwfgUsZtKLHUWAmOeck0_GGr2hfXAyI_ebwPioyUY7k9fl2pSnTJbRbjmjz3USqa1rGjgvIl6LHRcsO7Qc8aDOOs3CN" group-title="Family", Star Plus
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
 https://homair-tv-production.up.railway.app/api/play/Star%20Plus.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="cloursbangla" tvg-name="CloursBangla" tvg-logo="https://tv.moviemasti.net/assets/images/CloursBangla1787280897.png?v=1" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Family",Colors HD
 https://homair-tv-production.up.railway.app/api/play/CloursBangla.m3u8
@@ -1078,13 +1066,6 @@ https://homair-tv-production.up.railway.app/api/play/Colors%20Cineplex%20HD.m3u8
 #EXTINF:-1 tvg-id="b4umovie" tvg-name="B4U Movie" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" tvg-language="English" group-title="Movies",B4U Movie
 https://homair-tv-production.up.railway.app/api/play/B4U%20Movie.m3u8
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="s92" tvg-name="Star Movies" tvg-logo="https://tvassets.roarzone.net/images/starmovies.png" group-title="Movies", Star Movies
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
 https://homair-tv-production.up.railway.app/api/play/Star%20Movies.m3u8
@@ -1092,13 +1073,6 @@ https://homair-tv-production.up.railway.app/api/play/Star%20Movies.m3u8
 #EXTINF:-1 tvg-id="s128" tvg-name="STAR-MOVIES SEL HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7mAD3IhvL2X1uwl19Y3ezi4tIew5AEmJD0dG3L5tnWY0eQndG174QeyGeKqDcxWojkJWyen3MlghwsdjISR10n2mLtf1OBxNbEXeyU2kPJkOPed0NXe9p9kPJwxvRbBdLXHcqGgs8xpc-FWvpdoTN1COXBeXDiTiqX8DiN9K1S3eAXDTbOmiywuKA7bgh/s1600/image.png" group-title="Movies", STAR-MOVIES SEL HD
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
 https://homair-tv-production.up.railway.app/api/play/STAR-MOVIES%20SEL%20HD.m3u8
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="nick" tvg-name="Nick" tvg-logo="https://tv.moviemasti.net/assets/images/NICK1787249933.png?v=1" tvg-language="English" group-title="Kids",Nick
 https://homair-tv-production.up.railway.app/api/play/Nick.m3u8
@@ -1413,7 +1387,6 @@ https://homair-tv-production.up.railway.app/api/play/Rangdhonu%20Sports.m3u8
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
 https://homair-tv-production.up.railway.app/api/play/Makkah%20tv.m3u8
 
-
 # ACTIVE UNIQUE CHANNELS ADDED BY HOME AIR PLAYLIST AUDIT
 
 #EXTINF:-1 tvg-id="185000" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="News",DBC News HD
@@ -1723,7 +1696,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-name="IN – Rana Cable Music" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/10/ranacablemusic-150x150.png?x89217" tvg-language="English" group-title="Music",IN – Rana Cable Music
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ranacablemusic.stream/playlist.m3u8?wmsAuthSign=
 
-
 #EXTINF:-1 tvg-id="channel24hd" tvg-name="CHANNEL 24 HD" tvg-logo="https://tv.moviemasti.net/assets/images/CHANNEL.24.HD1787251435.png?v=1" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Family",CHANNEL 24 HD
 https://homair-tv-production.up.railway.app/api/play/CHANNEL%2024%20HD.m3u8
 
@@ -1879,7 +1851,6 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF
 
 # Dead streams are retained for reference; alternatives/unverified streams are labelled separately.
 
-
 #EXTINF:-1 tvg-name="Banglar kontho 24" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/06/banglar-kantho-150x150.png?x89217" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Family",Banglar kontho 24
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/banglarkontho.stream/playlist.m3u8?wmsAuthSign=
 # DUPLICATE CHANNELS - UNVERIFIED ALTERNATIVE: Madani Ch. Bangla
@@ -1959,7 +1930,6 @@ https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8
 https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
 # DUPLICATE CHANNELS - DEAD STREAM: Shemaroo TV (HTTP 404)
 
-
 #EXTINF:-1 tvg-id="019de785-3b4e-7660-b080-94ffb2a86b05" tvg-name="Shemaroo TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_73a0972a8bf15d3ec6bc07601297c4db_playmist_shemaroo_umang_400x400.jpg" group-title="Family",Shemaroo TV
 https://tvsen3.aynaott.com/27jCLCUX/index.m3u8
 # DUPLICATE CHANNELS - DEAD STREAM: Bahrain Sports 2 (HTTP 404)
@@ -1977,7 +1947,6 @@ https://toffe-scraper.up.railway.app/api/play/Star%20News.m3u8
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD" tvg-name="Probashi TV News (1080p)" tvg-logo="https://i.imgur.com/7oTsfQ4.png" tvg-language="English" group-title="News",Probashi TV News (1080p)
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 # DUPLICATE CHANNELS - DEAD STREAM: Duronto TV (HTTP 404)
-
 
 #EXTINF:-1 tvg-id="durontotv" tvg-name="Duronto TV" tvg-logo="https://i.imgur.com/durontotv.png" tvg-language="English" group-title="Family",Duronto TV
 https://homair-tv-production.up.railway.app/api/play/Duronto%20TV.m3u8
@@ -2045,7 +2014,6 @@ https://homair-tv-production.up.railway.app/api/play/Star%20Sports%203.m3u8
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
 https://homair-tv-production.up.railway.app/api/play/Star%20Sports%202.m3u8
 # DUPLICATE CHANNELS - DEAD STREAM: Sun Bangla (HTTP 404)
-
 
 #EXTINF:-1 tvg-name="DesheBideshe TV | Canada" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1-150x150.jpg?x89217" tvg-language="English" group-title="International",DesheBideshe TV | Canada
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8?wmsAuthSign=
@@ -2164,7 +2132,6 @@ https://homair-hell.up.railway.app/api/play/Zee%20News%20Telugu.m3u8
 #EXTINF:-1 tvg-id="yupp-zee-punjab-haryana-himachal" tvg-name="Zee Punjab Haryana Himachal" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/ffanvt.png" group-title="News", Zee Punjab Haryana Himachal
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Zee%20Punjab%20Haryana%20Himachal.m3u8
-
 
 # --- YuppTV Entertainment channels ---
 
@@ -2288,7 +2255,6 @@ https://homair-hell.up.railway.app/api/play/Zee%20Tamil.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Zee%20Telugu%20HD.m3u8
 
-
 # --- YuppTV Movies channels ---
 
 #EXTINF:-1 tvg-id="yupp-asianet-movies" tvg-name="Asianet Movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/hbkgbu.png" group-title="Movies", Asianet Movies
@@ -2311,13 +2277,11 @@ https://homair-hell.up.railway.app/api/play/Mana%20TV.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Pitaara%20TV.m3u8
 
-
 # --- YuppTV Sports channels ---
 
 #EXTINF:-1 tvg-id="yupp-cricket-gold" tvg-name="Cricket Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/vzfqgi.png" group-title="Sports", Cricket Gold
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Cricket%20Gold.m3u8
-
 
 # --- YuppTV Music channels ---
 
@@ -2325,17 +2289,14 @@ https://homair-hell.up.railway.app/api/play/Cricket%20Gold.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/Wah%20Punjabi.m3u8
 
-
 # --- YuppTV LifeStyle channels ---
 
 #EXTINF:-1 tvg-id="yupp-ndtv-goodtimes" tvg-name="NDTV GoodTimes" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/lpccou.png" group-title="LifeStyle", NDTV GoodTimes
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/NDTV%20GoodTimes.m3u8
 
-
 # --- YuppTV Business channels ---
 
 #EXTINF:-1 tvg-id="yupp-ndtv-profit" tvg-name="NDTV Profit" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/dfjrsi.png" group-title="Business", NDTV Profit
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 https://homair-hell.up.railway.app/api/play/NDTV%20Profit.m3u8
-
