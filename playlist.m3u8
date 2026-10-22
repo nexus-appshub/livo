@@ -56,14 +56,6 @@ https://toffee-homair.up.railway.app/api/play/Live%204.m3u8
 #EXTINF:-1 tvg-name="HOME AIR" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" tvg-language="English" group-title="Family",HOME AIR
 https://cdn.xubilaswebdevcorp.shop/jem/a1/gemini_generated_video_70ad153e.mp4
 
-#EXTINF:-1 tvg-id="s92" tvg-name="Star Movies" tvg-logo="https://tvassets.roarzone.net/images/starmovies.png" group-title="Movies", Star Movies
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-hell.up.railway.app/api/play/Star%20Movies.m3u8
-
-#EXTINF:-1 tvg-id="s128" tvg-name="Star Movies Select HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7mAD3IhvL2X1uwl19Y3ezi4tIew5AEmJD0dG3L5tnWY0eQndG174QeyGeKqDcxWojkJWyen3MlghwsdjISR10n2mLtf1OBxNbEXeyU2kPJkOPed0NXe9p9kPJwxvRbBdLXHcqGgs8xpc-FWvpdoTN1COXBeXDiTiqX8DiN9K1S3eAXDTbOmiywuKA7bgh/s1600/image.png" group-title="Movies", Star Movies Select HD
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-hell.up.railway.app/api/play/Star%20Movies%20Select%20HD.m3u8
-
 #EXTINF:-1 tvg-id="019de785-3984-7c6c-b734-30d6bb22b3b8" tvg-name="Ananda TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_fb867854a7203c153946b83ab4e972e6_playmist_ananda_tv_400x400.jpg" tvg-language="English" group-title="Family",Ananda TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 
@@ -264,9 +256,6 @@ https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3bc1-763c-b24e-c328f7336861" tvg-name="HISTORY TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5996545c3aa998805349c10a3677c877_playmist_history_channel_400x400.jpg" tvg-language="English" group-title="Family",HISTORY TV
 https://tvsen3.aynaott.com/np3JstRE/index.m3u8
 
-#EXTINF:-1 tvg-id="s118" tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/6pCXvxyz/20240823_022553.png" group-title="Movies", Star Gold HD
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-hell.up.railway.app/api/play/Star%20Gold%20HD.m3u8
 #EXTINF:-1 tvg-id="019de785-39a3-74dd-8ef6-fbe0295e1222" tvg-name="kolkata TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_067234e427ca902620258631b762cea8_playmist_kolkata_tv_400x400.jpg" tvg-language="English" group-title="Family",kolkata TV
 https://tvsen6.aynaott.com/kolkatatv/index.m3u8
 
@@ -414,9 +403,6 @@ https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8
 #EXTINF:-1 tvg-id="019de785-39ff-7db1-94c6-e17acf6a6da4" tvg-name="Oman Sports TV HD" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-09/images_db7e2ba86e75cc789ccffacd59521127_playmist_oman_sports_tv_hd400x400.jpg" tvg-language="English" group-title="Sports",Oman Sports TV HD
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="s81" tvg-name="Jalsha Movies" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhwoKRMWN2R19cBjAHuUpvqBgDs3s0s2Zccsmm5Z7PRjLGsky7M7gz_OAmjA824OGV85X6r5hvqojvO11XcBYCH8LEs8jWxT1rc5eEh0rhQX_bMwJmDx4_wOP2dB7ozLTqSAZ5FMjSkaQl57ibosSQM9NgEKXJ4MkstdZIfRTQ84FeArPFpxx1vG6agkqdP" group-title="Movies", Jalsha Movies
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-hell.up.railway.app/api/play/Jalsha%20Movies.m3u8
 #EXTINF:-1 tvg-id="s29" tvg-name="Nagorik Tv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh34awV8eGnbBCbV7q3jsNOA-yQM_dDxUQwSRC_aI5gM-CQ1s8Z9ZRoeVHVv3YJhazNoIzfNGPn47AhN4DapGk5BKSlT3CZZ8DFBwusvzrbl6KEoFtvbIv1f9RJ1nqkgR6gP4D1O5uY4xqWNmz0kcgAnv-4EK4MYpBKreO8ljUvWQ53bZTRwZzbR2SzCw5p" group-title="Family", Nagorik Tv
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 
@@ -658,9 +644,6 @@ https://tvsen3.aynaott.com/P2hjvFHV/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3a49-76c5-baa6-12c71aa6e36e" tvg-name="9x Jalwa" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_320caef1d7d4c16d902ae73584767638_playmist_9x_jalwa_400x400.jpg" group-title="Family",9x Jalwa
 https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8
 
-#EXTINF:-1 tvg-id="s127" tvg-name="Star Gold 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg_J2N2bl6PhBZ_VxfDxMJaj6r2y3vMXFF8daMYNqH8RGSx0t9E93MVH4ddcnISgZCcP8NUip9HcONtzYxtBNLh5GYA8L46QPL-07L5Hfh2F1-ZvkJiBsYcgfaZiujvAAj2gz6buLA9m3D-Rt2QamODzfWVl5i1X7f-OXKOKRo4AZfktDTEciHqPSu2tIMw" group-title="Movies", Star Gold 2
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
-https://homair-hell.up.railway.app/api/play/Star%20Gold%202.m3u8
 #EXTINF:-1 tvg-name="Willow HD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" tvg-language="English" group-title="Sports",Willow HD
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
