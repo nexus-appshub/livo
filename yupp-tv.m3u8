@@ -5,9 +5,6 @@ http://103.185.24.134:3001/HUNGAMA/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
 #EXTINF:-1 tvg-id="hungama" tvg-name="HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/HUNGAMA1787250329.png?v=1" group-title="HomAir TV",HUNGAMA (Backup)
 http://103.185.24.134:3001/HUNGAMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="jalshamovieshd" tvg-name="JALSHA MOVIES HD" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", JALSHA MOVIES HD
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
-https://homair-hell.up.railway.app/api/play/Jalsha%20Movies%20HD.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" group-title="HomAir TV", SUPER HUNGAMA
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
@@ -20,6 +17,3 @@ http://103.185.24.134:3001/HUNGAMA/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/
 #EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-name="Hungama TV (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hungama_TV_Logo.svg/512px-Hungama_TV_Logo.svg.png" group-title="HomAir TV",Hungama TV (576p) (Backup)
 http://103.185.24.134:3001/HUNGAMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in@HD" tvg-name="Jalsha Movies HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Jalsha_Movies_logo.png/512px-Jalsha_Movies_logo.png" group-title="HomAir TV", Jalsha Movies HD (1080p)
-#EXTVLCOPT:http-referrer=https://www.yupptv.com/
-https://homair-hell.up.railway.app/api/play/Jalsha%20Movies%20HD.m3u8
