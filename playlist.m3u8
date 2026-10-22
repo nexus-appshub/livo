@@ -46,21 +46,6 @@ https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 #EXTINF:-1 tvg-id="019efa45-ef0a-7e72-86c1-af820f1f22e7" tvg-name="ATN Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_4ff2f8e87d71747b70ab273686c9df9a_playmist_atn_bangla_400x400.jpg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Family",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
-#EXTINF:-1 tvg-id="BTV1.bd" tvg-name="BTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV 1
-#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
-https://toffee-homair.up.railway.app/api/play/Live.m3u8
-#EXTINF:-1 tvg-id="BTV2.bd" tvg-name="BTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV 2
-#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
-https://toffee-homair.up.railway.app/api/play/Btv.m3u8
-#EXTINF:-1 tvg-id="BTV3.bd" tvg-name="BTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV 3
-#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
-https://toffee-homair.up.railway.app/api/play/Live%202.m3u8
-#EXTINF:-1 tvg-id="BTV4.bd" tvg-name="BTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV 4
-#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
-https://toffee-homair.up.railway.app/api/play/Live%203.m3u8
-#EXTINF:-1 tvg-id="BTV5.bd" tvg-name="BTV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV 5
-#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
-https://toffee-homair.up.railway.app/api/play/Live%204.m3u8
 #EXTINF:-1 tvg-id="019de785-3947-7f58-bf5b-525377fb71bd" tvg-name="ATN News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="News",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3974-7dc3-8710-4c1947b08deb" tvg-name="Bangla TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8fd7517559098b744a0595d094228d8d_playmist_bangla_tv_400x400.jpg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Family",Bangla TV
@@ -427,8 +412,6 @@ https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
 https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="s98" tvg-name="HungamaTV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgfEjh2jabLKHxc4dDA_yHDC3NoJkmsrrCMxyadqFkGZGdd8AON5typmuDVsZCLBl9TLjeYhkyfV7eVz0kiQ4wgl10B6gEg6pwR6Yk_2QBAm-X2BYPH0RrkleBz9cV8k-EYf4hEQynj194rX5stXOJ3hzQ-oP3AqI73BLx_yIFZdelBvmjaw6moGmPu0uLG" group-title="Kids", HungamaTV
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
-#EXTINF:-1 tvg-id="superhungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" tvg-language="English" group-title="Kids",SUPER HUNGAMA
-https://homair-hell.up.railway.app/api/play/Super%20Hungama%20(Adaptive%20Master).m3u8?source=http%3A%2F%2F103.185.24.134%3A3001%2FSUPER-HUNGAMA%2Findex.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 #EXTINF:-1 tvg-id="019de785-3a5f-738e-b2e2-f6110c5e8c09" tvg-name="Dangal" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_98667878f9c1b3ec731feece5946b50b_playmist_dangal_400x400.jpg" tvg-language="English" group-title="Family",Dangal
