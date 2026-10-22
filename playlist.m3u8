@@ -38,21 +38,6 @@
 # Group: Random
 
 #EXTM3U
-#EXTINF:-1 tvg-name="BTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" group-title="Live", BTV 1
-#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
-https://toffee-homair.up.railway.app/api/play/Live.m3u8
-#EXTINF:-1 tvg-name="BTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" group-title="Live", BTV 2
-#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
-https://toffee-homair.up.railway.app/api/play/Btv.m3u8
-#EXTINF:-1 tvg-name="BTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" group-title="Live", BTV 3
-#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
-https://toffee-homair.up.railway.app/api/play/Live%202.m3u8
-#EXTINF:-1 tvg-name="BTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" group-title="Live", BTV 4
-#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
-https://toffee-homair.up.railway.app/api/play/Live%203.m3u8
-#EXTINF:-1 tvg-name="BTV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" group-title="Live", BTV 5
-#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
-https://toffee-homair.up.railway.app/api/play/Live%204.m3u8
 #EXTINF:-1 tvg-name="HOME AIR" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" tvg-language="English" group-title="Family",HOME AIR
 https://cdn.xubilaswebdevcorp.shop/jem/a1/gemini_generated_video_70ad153e.mp4
 
@@ -64,6 +49,26 @@ https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 
 #EXTINF:-1 tvg-id="019efa45-ef0a-7e72-86c1-af820f1f22e7" tvg-name="ATN Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_4ff2f8e87d71747b70ab273686c9df9a_playmist_atn_bangla_400x400.jpg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Family",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+
+#EXTINF:-1 tvg-id="BTV1.bd" tvg-name="BTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV 1
+#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
+https://toffee-homair.up.railway.app/api/play/Live.m3u8
+
+#EXTINF:-1 tvg-id="BTV2.bd" tvg-name="BTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV 2
+#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
+https://toffee-homair.up.railway.app/api/play/Btv.m3u8
+
+#EXTINF:-1 tvg-id="BTV3.bd" tvg-name="BTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV 3
+#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
+https://toffee-homair.up.railway.app/api/play/Live%202.m3u8
+
+#EXTINF:-1 tvg-id="BTV4.bd" tvg-name="BTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV 4
+#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
+https://toffee-homair.up.railway.app/api/play/Live%203.m3u8
+
+#EXTINF:-1 tvg-id="BTV5.bd" tvg-name="BTV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV 5
+#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
+https://toffee-homair.up.railway.app/api/play/Live%204.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3947-7f58-bf5b-525377fb71bd" tvg-name="ATN News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="News",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
