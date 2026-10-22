@@ -38,6 +38,21 @@
 # Group: Random
 
 #EXTM3U
+#EXTINF:-1 group-title="Live", Live
+#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
+https://toffee-homair.up.railway.app/api/play/Live.m3u8
+#EXTINF:-1 group-title="Live", Btv
+#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
+https://toffee-homair.up.railway.app/api/play/Btv.m3u8
+#EXTINF:-1 group-title="Live", Live 2
+#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
+https://toffee-homair.up.railway.app/api/play/Live%202.m3u8
+#EXTINF:-1 group-title="Live", Live 3
+#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
+https://toffee-homair.up.railway.app/api/play/Live%203.m3u8
+#EXTINF:-1 group-title="Live", Live 4
+#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/
+https://toffee-homair.up.railway.app/api/play/Live%204.m3u8
 #EXTINF:-1 tvg-name="HOME AIR" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" tvg-language="English" group-title="Family",HOME AIR
 https://cdn.xubilaswebdevcorp.shop/jem/a1/gemini_generated_video_70ad153e.mp4
 
