@@ -73,14 +73,6 @@ https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3978-7f99-9708-4a0d34e53511" tvg-name="Boishakhi TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8a69251df11b66c4e85e7a2fe6d89286_playmist_boishakhi_tv_400x400.jpg" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Family",Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 
-#EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV
-https://homair-hell.up.railway.app/api/play/BTV.m3u8
-#EXTINF:-1 tvg-id="BTVLive.bd" tvg-name="BTV Live" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV Live
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BTVChattogram.bd" tvg-name="BTV Chattogram" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV Chattogram
-https://homair-hell.up.railway.app/api/play/BTV%20Chattogram.m3u8
-#EXTINF:-1 tvg-id="SangsadTelevision.bd" tvg-name="Sangsad Television" tvg-country="Bangladesh" tvg-language="Bangla" group-title="Bangladesh",BTV Sangsad
-https://homair-hell.up.railway.app/api/play/Sangsad%20Television.m3u8
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
 #EXTINF:-1 tvg-id="019f9d1e-903a-70f7-b217-aabdbdc97163" tvg-name="Channel 52" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg" tvg-language="English" group-title="Family",Channel 52
